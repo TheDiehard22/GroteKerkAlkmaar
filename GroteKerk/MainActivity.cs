@@ -4,7 +4,7 @@ using Android.OS;
 
 namespace GroteKerk
 {
-    [Activity(Label = "GroteKerk", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "GroteKerk", MainLauncher = true, Icon = "@drawable/iconn")]
     public class MainActivity : Activity
     {
         protected override void OnCreate(Bundle bundle)
