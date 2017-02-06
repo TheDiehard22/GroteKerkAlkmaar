@@ -6,5 +6,12 @@
   <color name="primaryDark">#455A64</color> <!--#700 color-->
   <color name="accent">#FF6F00</color>
   <color name="window_background">#f5f5f5</color>
-  
+
+
+  <color name="bg_screen_1">#009688</color>
+  <color name="bg_screen_2">#3F51B5</color>
+  <color name="bg_screen_3">#f44336</color>
+  <color name="bg_screen_4">#FFC107</color>
+
+
 </resources>

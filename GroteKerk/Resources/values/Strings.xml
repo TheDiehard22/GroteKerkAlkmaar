@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="Hello">Hello World, Click Me!</string>
-    <string name="ApplicationName">GroteKerk</string>
+  <string name="Hello">Hello World, Click Me!</string>
+  <string name="ApplicationName">GroteKerk</string>
+
+  <string name="next">Volgende</string>
+  <string name="skip">Overslaan</string>
+  <string name="start">Start</string>
+
+  <string name="slide_1_title">Welkom bij de Grote Kerk van Alkmaar</string>
+  <string name="slide_1_text"></string>
+
+  <string name="slide_2_title">Welkom bij de Grote Kerk van Alkmaar</string>
+  <string name="slide_2_text"></string>
+
 </resources>
