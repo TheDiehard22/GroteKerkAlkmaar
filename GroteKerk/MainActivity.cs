@@ -6,9 +6,6 @@ using Android.Support.Design.Widget;
 using Android.Views;
 using Android.Support.V4.Widget;
 using Android.Widget;
-using System;
-using UIKit;
-using GroteKerk.Fragments;
 
 namespace GroteKerk
 {
@@ -38,6 +35,14 @@ namespace GroteKerk
             _mNavigtationView.NavigationItemSelected += _mNavigtationView_NavigationItemSelected;
 
             #endregion
+
+            ImageButton showAppTypes = FindViewById<ImageButton>(Resource.Id.choose_app);
+            showAppTypes.Click += (s, arg) =>
+            {
+                PopupMenu menu = new PopupMenu(this, showAppTypes);
+                menu.MenuInflater.Inflate(Resource.Menu.app_types, menu.Menu);
+                menu.Show();
+            };
         }
 
         private void _mNavigtationView_NavigationItemSelected(object sender, NavigationView.NavigationItemSelectedEventArgs e)
