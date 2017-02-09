@@ -1,46 +1,80 @@
 ﻿using Android.App;
-using Android.Widget;
 using Android.OS;
-using Android.Support.Design;
-using Android.Support.V7;
 using Android.Support.V7.App;
-using Android.Support.V4.Widget;
+using Toolbar = Android.Support.V7.Widget.Toolbar;
 using Android.Support.Design.Widget;
+using Android.Views;
+using Android.Support.V4.Widget;
+using Android.Widget;
+using System;
+using UIKit;
+using GroteKerk.Fragments;
 
 namespace GroteKerk
 {
-    [Activity(Label = "Grote Kerk", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "Grote Kerk", Theme = "@style/KerkThema", MainLauncher = true, Icon = "@drawable/icon")]
     public class MainActivity : AppCompatActivity
     {
-        DrawerLayout _DrawerLayout;
-        NavigationView _NavigtationView;
+        DrawerLayout _mDrawerLayout;
+        NavigationView _mNavigtationView;
 
         protected override void OnCreate(Bundle bundle)
         {
             base.OnCreate(bundle);
             SetContentView(Resource.Layout.Main);
 
+            #region Toolbar & Drawer Navigation
 
-            // Initialize Drawer
-            InitDrawer();    
-        }
-
-        protected void InitDrawer()
-        {
             var toolbar = FindViewById<Toolbar>(Resource.Id.toolbar);
-            SetActionBar(toolbar);
+            toolbar.Title = "Grote Kerk";
+            SetSupportActionBar(toolbar);
 
-            ActionBar.SetHomeAsUpIndicator(Resource.Drawable.ic_menu_black_24dp);
-            ActionBar.SetDisplayHomeAsUpEnabled(true);
+            SupportActionBar.SetHomeAsUpIndicator(Resource.Drawable.ic_menu_white_24dp);
+            SupportActionBar.SetDisplayHomeAsUpEnabled(true);
 
-            _DrawerLayout = FindViewById<DrawerLayout>(Resource.Id.drawer_layout);
-            _NavigtationView = FindViewById<NavigationView>(Resource.Id.left_drawer);
+            _mDrawerLayout = FindViewById<DrawerLayout>(Resource.Id.drawer_layout);
+            _mNavigtationView = FindViewById<NavigationView>(Resource.Id.left_drawer);
 
-            _NavigtationView.NavigationItemSelected += (sender, e) => {
-                e.MenuItem.SetChecked(true);
-                _DrawerLayout.CloseDrawers();
-            };
+            _mNavigtationView.NavigationItemSelected += _mNavigtationView_NavigationItemSelected;
+
+            #endregion
         }
+
+        private void _mNavigtationView_NavigationItemSelected(object sender, NavigationView.NavigationItemSelectedEventArgs e)
+        {
+            e.MenuItem.SetChecked(true);
+
+            var ft = FragmentManager.BeginTransaction();
+
+            switch (e.MenuItem.ItemId)
+            {
+                case (Resource.Id.zerken_home):
+
+                    break;
+                case (Resource.Id.zerken_map):
+                    
+                    break;
+                case (Resource.Id.zerken_list):
+                    
+                    break;
+            }
+
+            // Close Drawer
+            _mDrawerLayout.CloseDrawers();
+        }
+
+        public override bool OnOptionsItemSelected(IMenuItem item)
+        {
+            switch (item.ItemId)
+            {
+                case Android.Resource.Id.Home:
+                    _mDrawerLayout.OpenDrawer(Android.Support.V4.View.GravityCompat.Start);
+                    return true;
+            }
+
+            return base.OnOptionsItemSelected(item);
+        }
+
     }
 }
 

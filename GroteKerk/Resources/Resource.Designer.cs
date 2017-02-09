@@ -988,32 +988,32 @@ namespace GroteKerk
 		public partial class Color
 		{
 			
-			// aapt resource value: 0x7f0b004c
-			public const int abc_background_cache_hint_selector_material_dark = 2131427404;
-			
-			// aapt resource value: 0x7f0b004d
-			public const int abc_background_cache_hint_selector_material_light = 2131427405;
-			
 			// aapt resource value: 0x7f0b004e
-			public const int abc_color_highlight_material = 2131427406;
+			public const int abc_background_cache_hint_selector_material_dark = 2131427406;
+			
+			// aapt resource value: 0x7f0b004f
+			public const int abc_background_cache_hint_selector_material_light = 2131427407;
+			
+			// aapt resource value: 0x7f0b0050
+			public const int abc_color_highlight_material = 2131427408;
 			
 			// aapt resource value: 0x7f0b0000
 			public const int abc_input_method_navigation_guard = 2131427328;
 			
-			// aapt resource value: 0x7f0b004f
-			public const int abc_primary_text_disable_only_material_dark = 2131427407;
-			
-			// aapt resource value: 0x7f0b0050
-			public const int abc_primary_text_disable_only_material_light = 2131427408;
-			
 			// aapt resource value: 0x7f0b0051
-			public const int abc_primary_text_material_dark = 2131427409;
+			public const int abc_primary_text_disable_only_material_dark = 2131427409;
 			
 			// aapt resource value: 0x7f0b0052
-			public const int abc_primary_text_material_light = 2131427410;
+			public const int abc_primary_text_disable_only_material_light = 2131427410;
 			
 			// aapt resource value: 0x7f0b0053
-			public const int abc_search_url_text = 2131427411;
+			public const int abc_primary_text_material_dark = 2131427411;
+			
+			// aapt resource value: 0x7f0b0054
+			public const int abc_primary_text_material_light = 2131427412;
+			
+			// aapt resource value: 0x7f0b0055
+			public const int abc_search_url_text = 2131427413;
 			
 			// aapt resource value: 0x7f0b0001
 			public const int abc_search_url_text_normal = 2131427329;
@@ -1024,11 +1024,11 @@ namespace GroteKerk
 			// aapt resource value: 0x7f0b0003
 			public const int abc_search_url_text_selected = 2131427331;
 			
-			// aapt resource value: 0x7f0b0054
-			public const int abc_secondary_text_material_dark = 2131427412;
+			// aapt resource value: 0x7f0b0056
+			public const int abc_secondary_text_material_dark = 2131427414;
 			
-			// aapt resource value: 0x7f0b0055
-			public const int abc_secondary_text_material_light = 2131427413;
+			// aapt resource value: 0x7f0b0057
+			public const int abc_secondary_text_material_light = 2131427415;
 			
 			// aapt resource value: 0x7f0b0046
 			public const int accent = 2131427398;
@@ -1062,6 +1062,9 @@ namespace GroteKerk
 			
 			// aapt resource value: 0x7f0b004b
 			public const int bg_screen_4 = 2131427403;
+			
+			// aapt resource value: 0x7f0b004d
+			public const int black = 2131427405;
 			
 			// aapt resource value: 0x7f0b000a
 			public const int bright_foreground_disabled_material_dark = 2131427338;
@@ -1237,17 +1240,20 @@ namespace GroteKerk
 			// aapt resource value: 0x7f0b0037
 			public const int switch_thumb_disabled_material_light = 2131427383;
 			
-			// aapt resource value: 0x7f0b0056
-			public const int switch_thumb_material_dark = 2131427414;
+			// aapt resource value: 0x7f0b0058
+			public const int switch_thumb_material_dark = 2131427416;
 			
-			// aapt resource value: 0x7f0b0057
-			public const int switch_thumb_material_light = 2131427415;
+			// aapt resource value: 0x7f0b0059
+			public const int switch_thumb_material_light = 2131427417;
 			
 			// aapt resource value: 0x7f0b0038
 			public const int switch_thumb_normal_material_dark = 2131427384;
 			
 			// aapt resource value: 0x7f0b0039
 			public const int switch_thumb_normal_material_light = 2131427385;
+			
+			// aapt resource value: 0x7f0b004c
+			public const int white = 2131427404;
 			
 			// aapt resource value: 0x7f0b0047
 			public const int window_background = 2131427399;
@@ -1831,16 +1837,22 @@ namespace GroteKerk
 			public const int design_snackbar_background = 2130837580;
 			
 			// aapt resource value: 0x7f02004d
-			public const int ic_menu_black_24dp = 2130837581;
+			public const int ic_arrow_drop_down_white_24dp = 2130837581;
 			
 			// aapt resource value: 0x7f02004e
-			public const int Icon = 2130837582;
+			public const int ic_menu_black_24dp = 2130837582;
 			
 			// aapt resource value: 0x7f02004f
-			public const int Logo = 2130837583;
+			public const int ic_menu_white_24dp = 2130837583;
 			
 			// aapt resource value: 0x7f020050
-			public const int notification_template_icon_bg = 2130837584;
+			public const int Icon = 2130837584;
+			
+			// aapt resource value: 0x7f020051
+			public const int Logo = 2130837585;
+			
+			// aapt resource value: 0x7f020052
+			public const int notification_template_icon_bg = 2130837586;
 			
 			static Drawable()
 			{
@@ -1855,8 +1867,8 @@ namespace GroteKerk
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f060075
-			public const int action0 = 2131099765;
+			// aapt resource value: 0x7f060078
+			public const int action0 = 2131099768;
 			
 			// aapt resource value: 0x7f06005a
 			public const int action_bar = 2131099738;
@@ -1882,8 +1894,8 @@ namespace GroteKerk
 			// aapt resource value: 0x7f06005b
 			public const int action_context_bar = 2131099739;
 			
-			// aapt resource value: 0x7f060079
-			public const int action_divider = 2131099769;
+			// aapt resource value: 0x7f06007c
+			public const int action_divider = 2131099772;
 			
 			// aapt resource value: 0x7f060003
 			public const int action_menu_divider = 2131099651;
@@ -1906,6 +1918,9 @@ namespace GroteKerk
 			// aapt resource value: 0x7f060049
 			public const int alertTitle = 2131099721;
 			
+			// aapt resource value: 0x7f060085
+			public const int algemene_app = 2131099781;
+			
 			// aapt resource value: 0x7f06001e
 			public const int always = 2131099678;
 			
@@ -1918,8 +1933,8 @@ namespace GroteKerk
 			// aapt resource value: 0x7f060044
 			public const int buttonPanel = 2131099716;
 			
-			// aapt resource value: 0x7f060076
-			public const int cancel_action = 2131099766;
+			// aapt resource value: 0x7f060079
+			public const int cancel_action = 2131099769;
 			
 			// aapt resource value: 0x7f06002b
 			public const int center = 2131099691;
@@ -1933,8 +1948,11 @@ namespace GroteKerk
 			// aapt resource value: 0x7f060052
 			public const int checkbox = 2131099730;
 			
-			// aapt resource value: 0x7f06007c
-			public const int chronometer = 2131099772;
+			// aapt resource value: 0x7f060077
+			public const int choose_app = 2131099767;
+			
+			// aapt resource value: 0x7f06007f
+			public const int chronometer = 2131099775;
 			
 			// aapt resource value: 0x7f060033
 			public const int clip_horizontal = 2131099699;
@@ -1947,6 +1965,9 @@ namespace GroteKerk
 			
 			// aapt resource value: 0x7f06004a
 			public const int contentPanel = 2131099722;
+			
+			// aapt resource value: 0x7f060076
+			public const int current_app_title = 2131099766;
 			
 			// aapt resource value: 0x7f060050
 			public const int custom = 2131099728;
@@ -1987,8 +2008,8 @@ namespace GroteKerk
 			// aapt resource value: 0x7f06001c
 			public const int end = 2131099676;
 			
-			// aapt resource value: 0x7f060081
-			public const int end_padder = 2131099777;
+			// aapt resource value: 0x7f060084
+			public const int end_padder = 2131099780;
 			
 			// aapt resource value: 0x7f060023
 			public const int enterAlways = 2131099683;
@@ -2017,6 +2038,9 @@ namespace GroteKerk
 			// aapt resource value: 0x7f060038
 			public const int @fixed = 2131099704;
 			
+			// aapt resource value: 0x7f060074
+			public const int fragment_container = 2131099764;
+			
 			// aapt resource value: 0x7f060005
 			public const int home = 2131099653;
 			
@@ -2032,23 +2056,26 @@ namespace GroteKerk
 			// aapt resource value: 0x7f06003f
 			public const int image = 2131099711;
 			
-			// aapt resource value: 0x7f060080
-			public const int info = 2131099776;
+			// aapt resource value: 0x7f060083
+			public const int info = 2131099779;
 			
 			// aapt resource value: 0x7f060000
 			public const int item_touch_helper_previous_elevation = 2131099648;
 			
+			// aapt resource value: 0x7f060087
+			public const int kinder_app = 2131099783;
+			
 			// aapt resource value: 0x7f06002f
 			public const int left = 2131099695;
 			
-			// aapt resource value: 0x7f060074
-			public const int left_drawer = 2131099764;
+			// aapt resource value: 0x7f060075
+			public const int left_drawer = 2131099765;
 			
-			// aapt resource value: 0x7f06007a
-			public const int line1 = 2131099770;
+			// aapt resource value: 0x7f06007d
+			public const int line1 = 2131099773;
 			
-			// aapt resource value: 0x7f06007e
-			public const int line3 = 2131099774;
+			// aapt resource value: 0x7f060081
+			public const int line3 = 2131099777;
 			
 			// aapt resource value: 0x7f06000b
 			public const int listMode = 2131099659;
@@ -2056,8 +2083,8 @@ namespace GroteKerk
 			// aapt resource value: 0x7f060041
 			public const int list_item = 2131099713;
 			
-			// aapt resource value: 0x7f060078
-			public const int media_actions = 2131099768;
+			// aapt resource value: 0x7f06007b
+			public const int media_actions = 2131099771;
 			
 			// aapt resource value: 0x7f06001d
 			public const int middle = 2131099677;
@@ -2067,18 +2094,6 @@ namespace GroteKerk
 			
 			// aapt resource value: 0x7f060016
 			public const int multiply = 2131099670;
-			
-			// aapt resource value: 0x7f060085
-			public const int nav_discussion = 2131099781;
-			
-			// aapt resource value: 0x7f060084
-			public const int nav_friends = 2131099780;
-			
-			// aapt resource value: 0x7f060082
-			public const int nav_home = 2131099778;
-			
-			// aapt resource value: 0x7f060083
-			public const int nav_messages = 2131099779;
 			
 			// aapt resource value: 0x7f06006d
 			public const int navigation_header_container = 2131099757;
@@ -2203,8 +2218,8 @@ namespace GroteKerk
 			// aapt resource value: 0x7f060031
 			public const int start = 2131099697;
 			
-			// aapt resource value: 0x7f060077
-			public const int status_bar_latest_event_content = 2131099767;
+			// aapt resource value: 0x7f06007a
+			public const int status_bar_latest_event_content = 2131099770;
 			
 			// aapt resource value: 0x7f060065
 			public const int submit_area = 2131099749;
@@ -2212,17 +2227,17 @@ namespace GroteKerk
 			// aapt resource value: 0x7f06000d
 			public const int tabMode = 2131099661;
 			
-			// aapt resource value: 0x7f06007f
-			public const int text = 2131099775;
+			// aapt resource value: 0x7f060082
+			public const int text = 2131099778;
 			
-			// aapt resource value: 0x7f06007d
-			public const int text2 = 2131099773;
+			// aapt resource value: 0x7f060080
+			public const int text2 = 2131099776;
 			
 			// aapt resource value: 0x7f06004d
 			public const int textSpacerNoButtons = 2131099725;
 			
-			// aapt resource value: 0x7f06007b
-			public const int time = 2131099771;
+			// aapt resource value: 0x7f06007e
+			public const int time = 2131099774;
 			
 			// aapt resource value: 0x7f060043
 			public const int title = 2131099715;
@@ -2256,6 +2271,18 @@ namespace GroteKerk
 			
 			// aapt resource value: 0x7f060015
 			public const int wrap_content = 2131099669;
+			
+			// aapt resource value: 0x7f060086
+			public const int zerken_app = 2131099782;
+			
+			// aapt resource value: 0x7f060088
+			public const int zerken_home = 2131099784;
+			
+			// aapt resource value: 0x7f06008a
+			public const int zerken_list = 2131099786;
+			
+			// aapt resource value: 0x7f060089
+			public const int zerken_map = 2131099785;
 			
 			static Id()
 			{
@@ -2419,43 +2446,49 @@ namespace GroteKerk
 			public const int Main = 2130903077;
 			
 			// aapt resource value: 0x7f030026
-			public const int notification_media_action = 2130903078;
+			public const int nav_header = 2130903078;
 			
 			// aapt resource value: 0x7f030027
-			public const int notification_media_cancel_action = 2130903079;
+			public const int notification_media_action = 2130903079;
 			
 			// aapt resource value: 0x7f030028
-			public const int notification_template_big_media = 2130903080;
+			public const int notification_media_cancel_action = 2130903080;
 			
 			// aapt resource value: 0x7f030029
-			public const int notification_template_big_media_narrow = 2130903081;
+			public const int notification_template_big_media = 2130903081;
 			
 			// aapt resource value: 0x7f03002a
-			public const int notification_template_lines = 2130903082;
+			public const int notification_template_big_media_narrow = 2130903082;
 			
 			// aapt resource value: 0x7f03002b
-			public const int notification_template_media = 2130903083;
+			public const int notification_template_lines = 2130903083;
 			
 			// aapt resource value: 0x7f03002c
-			public const int notification_template_part_chronometer = 2130903084;
+			public const int notification_template_media = 2130903084;
 			
 			// aapt resource value: 0x7f03002d
-			public const int notification_template_part_time = 2130903085;
+			public const int notification_template_part_chronometer = 2130903085;
 			
 			// aapt resource value: 0x7f03002e
-			public const int select_dialog_item_material = 2130903086;
+			public const int notification_template_part_time = 2130903086;
 			
 			// aapt resource value: 0x7f03002f
-			public const int select_dialog_multichoice_material = 2130903087;
+			public const int select_dialog_item_material = 2130903087;
 			
 			// aapt resource value: 0x7f030030
-			public const int select_dialog_singlechoice_material = 2130903088;
+			public const int select_dialog_multichoice_material = 2130903088;
 			
 			// aapt resource value: 0x7f030031
-			public const int support_simple_spinner_dropdown_item = 2130903089;
+			public const int select_dialog_singlechoice_material = 2130903089;
 			
 			// aapt resource value: 0x7f030032
-			public const int toolbar = 2130903090;
+			public const int support_simple_spinner_dropdown_item = 2130903090;
+			
+			// aapt resource value: 0x7f030033
+			public const int toolbar = 2130903091;
+			
+			// aapt resource value: 0x7f030034
+			public const int zerken_home = 2130903092;
 			
 			static Layout()
 			{
@@ -2471,7 +2504,10 @@ namespace GroteKerk
 		{
 			
 			// aapt resource value: 0x7f0c0000
-			public const int left_drawer_items = 2131492864;
+			public const int app_types = 2131492864;
+			
+			// aapt resource value: 0x7f0c0001
+			public const int left_drawer_zerken = 2131492865;
 			
 			static Menu()
 			{
@@ -3386,6 +3422,9 @@ namespace GroteKerk
 			
 			// aapt resource value: 0x7f0900f7
 			public const int ThemeOverlay_AppCompat_Light = 2131296503;
+			
+			// aapt resource value: 0x7f090158
+			public const int ToolbarThema = 2131296600;
 			
 			// aapt resource value: 0x7f0900f8
 			public const int Widget_AppCompat_ActionBar = 2131296504;

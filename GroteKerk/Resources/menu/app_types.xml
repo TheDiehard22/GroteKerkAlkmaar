@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <group android:checkableBehavior="single">
+
+    <item android:id="@+id/algemene_app"
+      android:title="Algemene App" />
+
+    <item android:id="@+id/zerken_app"
+      android:title="Zerken App" />
+
+    <item android:id="@+id/kinder_app"
+      android:title="Kinder App" />
+
+  </group>
+</menu>
