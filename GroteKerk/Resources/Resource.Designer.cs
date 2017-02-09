@@ -2487,9 +2487,6 @@ namespace GroteKerk
 			// aapt resource value: 0x7f030033
 			public const int toolbar = 2130903091;
 			
-			// aapt resource value: 0x7f030034
-			public const int zerken_home = 2130903092;
-			
 			static Layout()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
