@@ -26,6 +26,340 @@ namespace GroteKerk
 		
 		public static void UpdateIdValues()
 		{
+			global::MaterialDesignHelpers.Resource.Color.material_amber_100 = global::GroteKerk.Resource.Color.material_amber_100;
+			global::MaterialDesignHelpers.Resource.Color.material_amber_200 = global::GroteKerk.Resource.Color.material_amber_200;
+			global::MaterialDesignHelpers.Resource.Color.material_amber_300 = global::GroteKerk.Resource.Color.material_amber_300;
+			global::MaterialDesignHelpers.Resource.Color.material_amber_400 = global::GroteKerk.Resource.Color.material_amber_400;
+			global::MaterialDesignHelpers.Resource.Color.material_amber_50 = global::GroteKerk.Resource.Color.material_amber_50;
+			global::MaterialDesignHelpers.Resource.Color.material_amber_500 = global::GroteKerk.Resource.Color.material_amber_500;
+			global::MaterialDesignHelpers.Resource.Color.material_amber_600 = global::GroteKerk.Resource.Color.material_amber_600;
+			global::MaterialDesignHelpers.Resource.Color.material_amber_700 = global::GroteKerk.Resource.Color.material_amber_700;
+			global::MaterialDesignHelpers.Resource.Color.material_amber_800 = global::GroteKerk.Resource.Color.material_amber_800;
+			global::MaterialDesignHelpers.Resource.Color.material_amber_900 = global::GroteKerk.Resource.Color.material_amber_900;
+			global::MaterialDesignHelpers.Resource.Color.material_amber_accent_100 = global::GroteKerk.Resource.Color.material_amber_accent_100;
+			global::MaterialDesignHelpers.Resource.Color.material_amber_accent_200 = global::GroteKerk.Resource.Color.material_amber_accent_200;
+			global::MaterialDesignHelpers.Resource.Color.material_amber_accent_400 = global::GroteKerk.Resource.Color.material_amber_accent_400;
+			global::MaterialDesignHelpers.Resource.Color.material_amber_accent_700 = global::GroteKerk.Resource.Color.material_amber_accent_700;
+			global::MaterialDesignHelpers.Resource.Color.material_blue_100 = global::GroteKerk.Resource.Color.material_blue_100;
+			global::MaterialDesignHelpers.Resource.Color.material_blue_200 = global::GroteKerk.Resource.Color.material_blue_200;
+			global::MaterialDesignHelpers.Resource.Color.material_blue_300 = global::GroteKerk.Resource.Color.material_blue_300;
+			global::MaterialDesignHelpers.Resource.Color.material_blue_400 = global::GroteKerk.Resource.Color.material_blue_400;
+			global::MaterialDesignHelpers.Resource.Color.material_blue_50 = global::GroteKerk.Resource.Color.material_blue_50;
+			global::MaterialDesignHelpers.Resource.Color.material_blue_500 = global::GroteKerk.Resource.Color.material_blue_500;
+			global::MaterialDesignHelpers.Resource.Color.material_blue_600 = global::GroteKerk.Resource.Color.material_blue_600;
+			global::MaterialDesignHelpers.Resource.Color.material_blue_700 = global::GroteKerk.Resource.Color.material_blue_700;
+			global::MaterialDesignHelpers.Resource.Color.material_blue_800 = global::GroteKerk.Resource.Color.material_blue_800;
+			global::MaterialDesignHelpers.Resource.Color.material_blue_900 = global::GroteKerk.Resource.Color.material_blue_900;
+			global::MaterialDesignHelpers.Resource.Color.material_blue_accent_100 = global::GroteKerk.Resource.Color.material_blue_accent_100;
+			global::MaterialDesignHelpers.Resource.Color.material_blue_accent_200 = global::GroteKerk.Resource.Color.material_blue_accent_200;
+			global::MaterialDesignHelpers.Resource.Color.material_blue_accent_400 = global::GroteKerk.Resource.Color.material_blue_accent_400;
+			global::MaterialDesignHelpers.Resource.Color.material_blue_accent_700 = global::GroteKerk.Resource.Color.material_blue_accent_700;
+			global::MaterialDesignHelpers.Resource.Color.material_blue_grey_100 = global::GroteKerk.Resource.Color.material_blue_grey_100;
+			global::MaterialDesignHelpers.Resource.Color.material_blue_grey_200 = global::GroteKerk.Resource.Color.material_blue_grey_200;
+			global::MaterialDesignHelpers.Resource.Color.material_blue_grey_300 = global::GroteKerk.Resource.Color.material_blue_grey_300;
+			global::MaterialDesignHelpers.Resource.Color.material_blue_grey_400 = global::GroteKerk.Resource.Color.material_blue_grey_400;
+			global::MaterialDesignHelpers.Resource.Color.material_blue_grey_50 = global::GroteKerk.Resource.Color.material_blue_grey_50;
+			global::MaterialDesignHelpers.Resource.Color.material_blue_grey_500 = global::GroteKerk.Resource.Color.material_blue_grey_500;
+			global::MaterialDesignHelpers.Resource.Color.material_blue_grey_600 = global::GroteKerk.Resource.Color.material_blue_grey_600;
+			global::MaterialDesignHelpers.Resource.Color.material_blue_grey_700 = global::GroteKerk.Resource.Color.material_blue_grey_700;
+			global::MaterialDesignHelpers.Resource.Color.material_blue_grey_800 = global::GroteKerk.Resource.Color.material_blue_grey_800;
+			global::MaterialDesignHelpers.Resource.Color.material_blue_grey_900 = global::GroteKerk.Resource.Color.material_blue_grey_900;
+			global::MaterialDesignHelpers.Resource.Color.material_brown_100 = global::GroteKerk.Resource.Color.material_brown_100;
+			global::MaterialDesignHelpers.Resource.Color.material_brown_200 = global::GroteKerk.Resource.Color.material_brown_200;
+			global::MaterialDesignHelpers.Resource.Color.material_brown_300 = global::GroteKerk.Resource.Color.material_brown_300;
+			global::MaterialDesignHelpers.Resource.Color.material_brown_400 = global::GroteKerk.Resource.Color.material_brown_400;
+			global::MaterialDesignHelpers.Resource.Color.material_brown_50 = global::GroteKerk.Resource.Color.material_brown_50;
+			global::MaterialDesignHelpers.Resource.Color.material_brown_500 = global::GroteKerk.Resource.Color.material_brown_500;
+			global::MaterialDesignHelpers.Resource.Color.material_brown_600 = global::GroteKerk.Resource.Color.material_brown_600;
+			global::MaterialDesignHelpers.Resource.Color.material_brown_700 = global::GroteKerk.Resource.Color.material_brown_700;
+			global::MaterialDesignHelpers.Resource.Color.material_brown_800 = global::GroteKerk.Resource.Color.material_brown_800;
+			global::MaterialDesignHelpers.Resource.Color.material_brown_900 = global::GroteKerk.Resource.Color.material_brown_900;
+			global::MaterialDesignHelpers.Resource.Color.material_cyan_100 = global::GroteKerk.Resource.Color.material_cyan_100;
+			global::MaterialDesignHelpers.Resource.Color.material_cyan_200 = global::GroteKerk.Resource.Color.material_cyan_200;
+			global::MaterialDesignHelpers.Resource.Color.material_cyan_300 = global::GroteKerk.Resource.Color.material_cyan_300;
+			global::MaterialDesignHelpers.Resource.Color.material_cyan_400 = global::GroteKerk.Resource.Color.material_cyan_400;
+			global::MaterialDesignHelpers.Resource.Color.material_cyan_50 = global::GroteKerk.Resource.Color.material_cyan_50;
+			global::MaterialDesignHelpers.Resource.Color.material_cyan_500 = global::GroteKerk.Resource.Color.material_cyan_500;
+			global::MaterialDesignHelpers.Resource.Color.material_cyan_600 = global::GroteKerk.Resource.Color.material_cyan_600;
+			global::MaterialDesignHelpers.Resource.Color.material_cyan_700 = global::GroteKerk.Resource.Color.material_cyan_700;
+			global::MaterialDesignHelpers.Resource.Color.material_cyan_800 = global::GroteKerk.Resource.Color.material_cyan_800;
+			global::MaterialDesignHelpers.Resource.Color.material_cyan_900 = global::GroteKerk.Resource.Color.material_cyan_900;
+			global::MaterialDesignHelpers.Resource.Color.material_cyan_accent_100 = global::GroteKerk.Resource.Color.material_cyan_accent_100;
+			global::MaterialDesignHelpers.Resource.Color.material_cyan_accent_200 = global::GroteKerk.Resource.Color.material_cyan_accent_200;
+			global::MaterialDesignHelpers.Resource.Color.material_cyan_accent_400 = global::GroteKerk.Resource.Color.material_cyan_accent_400;
+			global::MaterialDesignHelpers.Resource.Color.material_cyan_accent_700 = global::GroteKerk.Resource.Color.material_cyan_accent_700;
+			global::MaterialDesignHelpers.Resource.Color.material_deep_orange_100 = global::GroteKerk.Resource.Color.material_deep_orange_100;
+			global::MaterialDesignHelpers.Resource.Color.material_deep_orange_200 = global::GroteKerk.Resource.Color.material_deep_orange_200;
+			global::MaterialDesignHelpers.Resource.Color.material_deep_orange_300 = global::GroteKerk.Resource.Color.material_deep_orange_300;
+			global::MaterialDesignHelpers.Resource.Color.material_deep_orange_400 = global::GroteKerk.Resource.Color.material_deep_orange_400;
+			global::MaterialDesignHelpers.Resource.Color.material_deep_orange_50 = global::GroteKerk.Resource.Color.material_deep_orange_50;
+			global::MaterialDesignHelpers.Resource.Color.material_deep_orange_500 = global::GroteKerk.Resource.Color.material_deep_orange_500;
+			global::MaterialDesignHelpers.Resource.Color.material_deep_orange_600 = global::GroteKerk.Resource.Color.material_deep_orange_600;
+			global::MaterialDesignHelpers.Resource.Color.material_deep_orange_700 = global::GroteKerk.Resource.Color.material_deep_orange_700;
+			global::MaterialDesignHelpers.Resource.Color.material_deep_orange_800 = global::GroteKerk.Resource.Color.material_deep_orange_800;
+			global::MaterialDesignHelpers.Resource.Color.material_deep_orange_900 = global::GroteKerk.Resource.Color.material_deep_orange_900;
+			global::MaterialDesignHelpers.Resource.Color.material_deep_orange_accent_100 = global::GroteKerk.Resource.Color.material_deep_orange_accent_100;
+			global::MaterialDesignHelpers.Resource.Color.material_deep_orange_accent_200 = global::GroteKerk.Resource.Color.material_deep_orange_accent_200;
+			global::MaterialDesignHelpers.Resource.Color.material_deep_orange_accent_400 = global::GroteKerk.Resource.Color.material_deep_orange_accent_400;
+			global::MaterialDesignHelpers.Resource.Color.material_deep_orange_accent_700 = global::GroteKerk.Resource.Color.material_deep_orange_accent_700;
+			global::MaterialDesignHelpers.Resource.Color.material_deep_purple_100 = global::GroteKerk.Resource.Color.material_deep_purple_100;
+			global::MaterialDesignHelpers.Resource.Color.material_deep_purple_200 = global::GroteKerk.Resource.Color.material_deep_purple_200;
+			global::MaterialDesignHelpers.Resource.Color.material_deep_purple_300 = global::GroteKerk.Resource.Color.material_deep_purple_300;
+			global::MaterialDesignHelpers.Resource.Color.material_deep_purple_400 = global::GroteKerk.Resource.Color.material_deep_purple_400;
+			global::MaterialDesignHelpers.Resource.Color.material_deep_purple_50 = global::GroteKerk.Resource.Color.material_deep_purple_50;
+			global::MaterialDesignHelpers.Resource.Color.material_deep_purple_500 = global::GroteKerk.Resource.Color.material_deep_purple_500;
+			global::MaterialDesignHelpers.Resource.Color.material_deep_purple_600 = global::GroteKerk.Resource.Color.material_deep_purple_600;
+			global::MaterialDesignHelpers.Resource.Color.material_deep_purple_700 = global::GroteKerk.Resource.Color.material_deep_purple_700;
+			global::MaterialDesignHelpers.Resource.Color.material_deep_purple_800 = global::GroteKerk.Resource.Color.material_deep_purple_800;
+			global::MaterialDesignHelpers.Resource.Color.material_deep_purple_900 = global::GroteKerk.Resource.Color.material_deep_purple_900;
+			global::MaterialDesignHelpers.Resource.Color.material_deep_purple_accent_100 = global::GroteKerk.Resource.Color.material_deep_purple_accent_100;
+			global::MaterialDesignHelpers.Resource.Color.material_deep_purple_accent_200 = global::GroteKerk.Resource.Color.material_deep_purple_accent_200;
+			global::MaterialDesignHelpers.Resource.Color.material_deep_purple_accent_400 = global::GroteKerk.Resource.Color.material_deep_purple_accent_400;
+			global::MaterialDesignHelpers.Resource.Color.material_deep_purple_accent_700 = global::GroteKerk.Resource.Color.material_deep_purple_accent_700;
+			global::MaterialDesignHelpers.Resource.Color.material_green_100 = global::GroteKerk.Resource.Color.material_green_100;
+			global::MaterialDesignHelpers.Resource.Color.material_green_200 = global::GroteKerk.Resource.Color.material_green_200;
+			global::MaterialDesignHelpers.Resource.Color.material_green_300 = global::GroteKerk.Resource.Color.material_green_300;
+			global::MaterialDesignHelpers.Resource.Color.material_green_400 = global::GroteKerk.Resource.Color.material_green_400;
+			global::MaterialDesignHelpers.Resource.Color.material_green_50 = global::GroteKerk.Resource.Color.material_green_50;
+			global::MaterialDesignHelpers.Resource.Color.material_green_500 = global::GroteKerk.Resource.Color.material_green_500;
+			global::MaterialDesignHelpers.Resource.Color.material_green_600 = global::GroteKerk.Resource.Color.material_green_600;
+			global::MaterialDesignHelpers.Resource.Color.material_green_700 = global::GroteKerk.Resource.Color.material_green_700;
+			global::MaterialDesignHelpers.Resource.Color.material_green_800 = global::GroteKerk.Resource.Color.material_green_800;
+			global::MaterialDesignHelpers.Resource.Color.material_green_900 = global::GroteKerk.Resource.Color.material_green_900;
+			global::MaterialDesignHelpers.Resource.Color.material_green_accent_100 = global::GroteKerk.Resource.Color.material_green_accent_100;
+			global::MaterialDesignHelpers.Resource.Color.material_green_accent_200 = global::GroteKerk.Resource.Color.material_green_accent_200;
+			global::MaterialDesignHelpers.Resource.Color.material_green_accent_400 = global::GroteKerk.Resource.Color.material_green_accent_400;
+			global::MaterialDesignHelpers.Resource.Color.material_green_accent_700 = global::GroteKerk.Resource.Color.material_green_accent_700;
+			global::MaterialDesignHelpers.Resource.Color.material_grey_100 = global::GroteKerk.Resource.Color.material_grey_100;
+			global::MaterialDesignHelpers.Resource.Color.material_grey_200 = global::GroteKerk.Resource.Color.material_grey_200;
+			global::MaterialDesignHelpers.Resource.Color.material_grey_300 = global::GroteKerk.Resource.Color.material_grey_300;
+			global::MaterialDesignHelpers.Resource.Color.material_grey_400 = global::GroteKerk.Resource.Color.material_grey_400;
+			global::MaterialDesignHelpers.Resource.Color.material_grey_50 = global::GroteKerk.Resource.Color.material_grey_50;
+			global::MaterialDesignHelpers.Resource.Color.material_grey_500 = global::GroteKerk.Resource.Color.material_grey_500;
+			global::MaterialDesignHelpers.Resource.Color.material_grey_600 = global::GroteKerk.Resource.Color.material_grey_600;
+			global::MaterialDesignHelpers.Resource.Color.material_grey_700 = global::GroteKerk.Resource.Color.material_grey_700;
+			global::MaterialDesignHelpers.Resource.Color.material_grey_800 = global::GroteKerk.Resource.Color.material_grey_800;
+			global::MaterialDesignHelpers.Resource.Color.material_grey_900 = global::GroteKerk.Resource.Color.material_grey_900;
+			global::MaterialDesignHelpers.Resource.Color.material_indigo_100 = global::GroteKerk.Resource.Color.material_indigo_100;
+			global::MaterialDesignHelpers.Resource.Color.material_indigo_200 = global::GroteKerk.Resource.Color.material_indigo_200;
+			global::MaterialDesignHelpers.Resource.Color.material_indigo_300 = global::GroteKerk.Resource.Color.material_indigo_300;
+			global::MaterialDesignHelpers.Resource.Color.material_indigo_400 = global::GroteKerk.Resource.Color.material_indigo_400;
+			global::MaterialDesignHelpers.Resource.Color.material_indigo_50 = global::GroteKerk.Resource.Color.material_indigo_50;
+			global::MaterialDesignHelpers.Resource.Color.material_indigo_500 = global::GroteKerk.Resource.Color.material_indigo_500;
+			global::MaterialDesignHelpers.Resource.Color.material_indigo_600 = global::GroteKerk.Resource.Color.material_indigo_600;
+			global::MaterialDesignHelpers.Resource.Color.material_indigo_700 = global::GroteKerk.Resource.Color.material_indigo_700;
+			global::MaterialDesignHelpers.Resource.Color.material_indigo_800 = global::GroteKerk.Resource.Color.material_indigo_800;
+			global::MaterialDesignHelpers.Resource.Color.material_indigo_900 = global::GroteKerk.Resource.Color.material_indigo_900;
+			global::MaterialDesignHelpers.Resource.Color.material_indigo_accent_100 = global::GroteKerk.Resource.Color.material_indigo_accent_100;
+			global::MaterialDesignHelpers.Resource.Color.material_indigo_accent_200 = global::GroteKerk.Resource.Color.material_indigo_accent_200;
+			global::MaterialDesignHelpers.Resource.Color.material_indigo_accent_400 = global::GroteKerk.Resource.Color.material_indigo_accent_400;
+			global::MaterialDesignHelpers.Resource.Color.material_indigo_accent_700 = global::GroteKerk.Resource.Color.material_indigo_accent_700;
+			global::MaterialDesignHelpers.Resource.Color.material_light_black = global::GroteKerk.Resource.Color.material_light_black;
+			global::MaterialDesignHelpers.Resource.Color.material_light_blue_100 = global::GroteKerk.Resource.Color.material_light_blue_100;
+			global::MaterialDesignHelpers.Resource.Color.material_light_blue_200 = global::GroteKerk.Resource.Color.material_light_blue_200;
+			global::MaterialDesignHelpers.Resource.Color.material_light_blue_300 = global::GroteKerk.Resource.Color.material_light_blue_300;
+			global::MaterialDesignHelpers.Resource.Color.material_light_blue_400 = global::GroteKerk.Resource.Color.material_light_blue_400;
+			global::MaterialDesignHelpers.Resource.Color.material_light_blue_50 = global::GroteKerk.Resource.Color.material_light_blue_50;
+			global::MaterialDesignHelpers.Resource.Color.material_light_blue_500 = global::GroteKerk.Resource.Color.material_light_blue_500;
+			global::MaterialDesignHelpers.Resource.Color.material_light_blue_600 = global::GroteKerk.Resource.Color.material_light_blue_600;
+			global::MaterialDesignHelpers.Resource.Color.material_light_blue_700 = global::GroteKerk.Resource.Color.material_light_blue_700;
+			global::MaterialDesignHelpers.Resource.Color.material_light_blue_800 = global::GroteKerk.Resource.Color.material_light_blue_800;
+			global::MaterialDesignHelpers.Resource.Color.material_light_blue_900 = global::GroteKerk.Resource.Color.material_light_blue_900;
+			global::MaterialDesignHelpers.Resource.Color.material_light_blue_accent_100 = global::GroteKerk.Resource.Color.material_light_blue_accent_100;
+			global::MaterialDesignHelpers.Resource.Color.material_light_blue_accent_200 = global::GroteKerk.Resource.Color.material_light_blue_accent_200;
+			global::MaterialDesignHelpers.Resource.Color.material_light_blue_accent_400 = global::GroteKerk.Resource.Color.material_light_blue_accent_400;
+			global::MaterialDesignHelpers.Resource.Color.material_light_blue_accent_700 = global::GroteKerk.Resource.Color.material_light_blue_accent_700;
+			global::MaterialDesignHelpers.Resource.Color.material_light_green_100 = global::GroteKerk.Resource.Color.material_light_green_100;
+			global::MaterialDesignHelpers.Resource.Color.material_light_green_200 = global::GroteKerk.Resource.Color.material_light_green_200;
+			global::MaterialDesignHelpers.Resource.Color.material_light_green_300 = global::GroteKerk.Resource.Color.material_light_green_300;
+			global::MaterialDesignHelpers.Resource.Color.material_light_green_400 = global::GroteKerk.Resource.Color.material_light_green_400;
+			global::MaterialDesignHelpers.Resource.Color.material_light_green_50 = global::GroteKerk.Resource.Color.material_light_green_50;
+			global::MaterialDesignHelpers.Resource.Color.material_light_green_500 = global::GroteKerk.Resource.Color.material_light_green_500;
+			global::MaterialDesignHelpers.Resource.Color.material_light_green_600 = global::GroteKerk.Resource.Color.material_light_green_600;
+			global::MaterialDesignHelpers.Resource.Color.material_light_green_700 = global::GroteKerk.Resource.Color.material_light_green_700;
+			global::MaterialDesignHelpers.Resource.Color.material_light_green_800 = global::GroteKerk.Resource.Color.material_light_green_800;
+			global::MaterialDesignHelpers.Resource.Color.material_light_green_900 = global::GroteKerk.Resource.Color.material_light_green_900;
+			global::MaterialDesignHelpers.Resource.Color.material_light_green_accent_100 = global::GroteKerk.Resource.Color.material_light_green_accent_100;
+			global::MaterialDesignHelpers.Resource.Color.material_light_green_accent_200 = global::GroteKerk.Resource.Color.material_light_green_accent_200;
+			global::MaterialDesignHelpers.Resource.Color.material_light_green_accent_400 = global::GroteKerk.Resource.Color.material_light_green_accent_400;
+			global::MaterialDesignHelpers.Resource.Color.material_light_green_accent_700 = global::GroteKerk.Resource.Color.material_light_green_accent_700;
+			global::MaterialDesignHelpers.Resource.Color.material_light_white = global::GroteKerk.Resource.Color.material_light_white;
+			global::MaterialDesignHelpers.Resource.Color.material_lime_100 = global::GroteKerk.Resource.Color.material_lime_100;
+			global::MaterialDesignHelpers.Resource.Color.material_lime_200 = global::GroteKerk.Resource.Color.material_lime_200;
+			global::MaterialDesignHelpers.Resource.Color.material_lime_300 = global::GroteKerk.Resource.Color.material_lime_300;
+			global::MaterialDesignHelpers.Resource.Color.material_lime_400 = global::GroteKerk.Resource.Color.material_lime_400;
+			global::MaterialDesignHelpers.Resource.Color.material_lime_50 = global::GroteKerk.Resource.Color.material_lime_50;
+			global::MaterialDesignHelpers.Resource.Color.material_lime_500 = global::GroteKerk.Resource.Color.material_lime_500;
+			global::MaterialDesignHelpers.Resource.Color.material_lime_600 = global::GroteKerk.Resource.Color.material_lime_600;
+			global::MaterialDesignHelpers.Resource.Color.material_lime_700 = global::GroteKerk.Resource.Color.material_lime_700;
+			global::MaterialDesignHelpers.Resource.Color.material_lime_800 = global::GroteKerk.Resource.Color.material_lime_800;
+			global::MaterialDesignHelpers.Resource.Color.material_lime_900 = global::GroteKerk.Resource.Color.material_lime_900;
+			global::MaterialDesignHelpers.Resource.Color.material_lime_accent_100 = global::GroteKerk.Resource.Color.material_lime_accent_100;
+			global::MaterialDesignHelpers.Resource.Color.material_lime_accent_200 = global::GroteKerk.Resource.Color.material_lime_accent_200;
+			global::MaterialDesignHelpers.Resource.Color.material_lime_accent_400 = global::GroteKerk.Resource.Color.material_lime_accent_400;
+			global::MaterialDesignHelpers.Resource.Color.material_lime_accent_700 = global::GroteKerk.Resource.Color.material_lime_accent_700;
+			global::MaterialDesignHelpers.Resource.Color.material_orange_100 = global::GroteKerk.Resource.Color.material_orange_100;
+			global::MaterialDesignHelpers.Resource.Color.material_orange_200 = global::GroteKerk.Resource.Color.material_orange_200;
+			global::MaterialDesignHelpers.Resource.Color.material_orange_300 = global::GroteKerk.Resource.Color.material_orange_300;
+			global::MaterialDesignHelpers.Resource.Color.material_orange_400 = global::GroteKerk.Resource.Color.material_orange_400;
+			global::MaterialDesignHelpers.Resource.Color.material_orange_50 = global::GroteKerk.Resource.Color.material_orange_50;
+			global::MaterialDesignHelpers.Resource.Color.material_orange_500 = global::GroteKerk.Resource.Color.material_orange_500;
+			global::MaterialDesignHelpers.Resource.Color.material_orange_600 = global::GroteKerk.Resource.Color.material_orange_600;
+			global::MaterialDesignHelpers.Resource.Color.material_orange_700 = global::GroteKerk.Resource.Color.material_orange_700;
+			global::MaterialDesignHelpers.Resource.Color.material_orange_800 = global::GroteKerk.Resource.Color.material_orange_800;
+			global::MaterialDesignHelpers.Resource.Color.material_orange_900 = global::GroteKerk.Resource.Color.material_orange_900;
+			global::MaterialDesignHelpers.Resource.Color.material_orange_accent_100 = global::GroteKerk.Resource.Color.material_orange_accent_100;
+			global::MaterialDesignHelpers.Resource.Color.material_orange_accent_200 = global::GroteKerk.Resource.Color.material_orange_accent_200;
+			global::MaterialDesignHelpers.Resource.Color.material_orange_accent_400 = global::GroteKerk.Resource.Color.material_orange_accent_400;
+			global::MaterialDesignHelpers.Resource.Color.material_orange_accent_700 = global::GroteKerk.Resource.Color.material_orange_accent_700;
+			global::MaterialDesignHelpers.Resource.Color.material_pink_100 = global::GroteKerk.Resource.Color.material_pink_100;
+			global::MaterialDesignHelpers.Resource.Color.material_pink_200 = global::GroteKerk.Resource.Color.material_pink_200;
+			global::MaterialDesignHelpers.Resource.Color.material_pink_300 = global::GroteKerk.Resource.Color.material_pink_300;
+			global::MaterialDesignHelpers.Resource.Color.material_pink_400 = global::GroteKerk.Resource.Color.material_pink_400;
+			global::MaterialDesignHelpers.Resource.Color.material_pink_50 = global::GroteKerk.Resource.Color.material_pink_50;
+			global::MaterialDesignHelpers.Resource.Color.material_pink_500 = global::GroteKerk.Resource.Color.material_pink_500;
+			global::MaterialDesignHelpers.Resource.Color.material_pink_600 = global::GroteKerk.Resource.Color.material_pink_600;
+			global::MaterialDesignHelpers.Resource.Color.material_pink_700 = global::GroteKerk.Resource.Color.material_pink_700;
+			global::MaterialDesignHelpers.Resource.Color.material_pink_800 = global::GroteKerk.Resource.Color.material_pink_800;
+			global::MaterialDesignHelpers.Resource.Color.material_pink_900 = global::GroteKerk.Resource.Color.material_pink_900;
+			global::MaterialDesignHelpers.Resource.Color.material_pink_accent_100 = global::GroteKerk.Resource.Color.material_pink_accent_100;
+			global::MaterialDesignHelpers.Resource.Color.material_pink_accent_200 = global::GroteKerk.Resource.Color.material_pink_accent_200;
+			global::MaterialDesignHelpers.Resource.Color.material_pink_accent_400 = global::GroteKerk.Resource.Color.material_pink_accent_400;
+			global::MaterialDesignHelpers.Resource.Color.material_pink_accent_700 = global::GroteKerk.Resource.Color.material_pink_accent_700;
+			global::MaterialDesignHelpers.Resource.Color.material_purple_100 = global::GroteKerk.Resource.Color.material_purple_100;
+			global::MaterialDesignHelpers.Resource.Color.material_purple_200 = global::GroteKerk.Resource.Color.material_purple_200;
+			global::MaterialDesignHelpers.Resource.Color.material_purple_300 = global::GroteKerk.Resource.Color.material_purple_300;
+			global::MaterialDesignHelpers.Resource.Color.material_purple_400 = global::GroteKerk.Resource.Color.material_purple_400;
+			global::MaterialDesignHelpers.Resource.Color.material_purple_50 = global::GroteKerk.Resource.Color.material_purple_50;
+			global::MaterialDesignHelpers.Resource.Color.material_purple_500 = global::GroteKerk.Resource.Color.material_purple_500;
+			global::MaterialDesignHelpers.Resource.Color.material_purple_600 = global::GroteKerk.Resource.Color.material_purple_600;
+			global::MaterialDesignHelpers.Resource.Color.material_purple_700 = global::GroteKerk.Resource.Color.material_purple_700;
+			global::MaterialDesignHelpers.Resource.Color.material_purple_800 = global::GroteKerk.Resource.Color.material_purple_800;
+			global::MaterialDesignHelpers.Resource.Color.material_purple_900 = global::GroteKerk.Resource.Color.material_purple_900;
+			global::MaterialDesignHelpers.Resource.Color.material_purple_accent_100 = global::GroteKerk.Resource.Color.material_purple_accent_100;
+			global::MaterialDesignHelpers.Resource.Color.material_purple_accent_200 = global::GroteKerk.Resource.Color.material_purple_accent_200;
+			global::MaterialDesignHelpers.Resource.Color.material_purple_accent_400 = global::GroteKerk.Resource.Color.material_purple_accent_400;
+			global::MaterialDesignHelpers.Resource.Color.material_purple_accent_700 = global::GroteKerk.Resource.Color.material_purple_accent_700;
+			global::MaterialDesignHelpers.Resource.Color.material_red_100 = global::GroteKerk.Resource.Color.material_red_100;
+			global::MaterialDesignHelpers.Resource.Color.material_red_200 = global::GroteKerk.Resource.Color.material_red_200;
+			global::MaterialDesignHelpers.Resource.Color.material_red_300 = global::GroteKerk.Resource.Color.material_red_300;
+			global::MaterialDesignHelpers.Resource.Color.material_red_400 = global::GroteKerk.Resource.Color.material_red_400;
+			global::MaterialDesignHelpers.Resource.Color.material_red_50 = global::GroteKerk.Resource.Color.material_red_50;
+			global::MaterialDesignHelpers.Resource.Color.material_red_500 = global::GroteKerk.Resource.Color.material_red_500;
+			global::MaterialDesignHelpers.Resource.Color.material_red_600 = global::GroteKerk.Resource.Color.material_red_600;
+			global::MaterialDesignHelpers.Resource.Color.material_red_700 = global::GroteKerk.Resource.Color.material_red_700;
+			global::MaterialDesignHelpers.Resource.Color.material_red_800 = global::GroteKerk.Resource.Color.material_red_800;
+			global::MaterialDesignHelpers.Resource.Color.material_red_900 = global::GroteKerk.Resource.Color.material_red_900;
+			global::MaterialDesignHelpers.Resource.Color.material_red_accent_100 = global::GroteKerk.Resource.Color.material_red_accent_100;
+			global::MaterialDesignHelpers.Resource.Color.material_red_accent_200 = global::GroteKerk.Resource.Color.material_red_accent_200;
+			global::MaterialDesignHelpers.Resource.Color.material_red_accent_400 = global::GroteKerk.Resource.Color.material_red_accent_400;
+			global::MaterialDesignHelpers.Resource.Color.material_red_accent_700 = global::GroteKerk.Resource.Color.material_red_accent_700;
+			global::MaterialDesignHelpers.Resource.Color.material_teal_100 = global::GroteKerk.Resource.Color.material_teal_100;
+			global::MaterialDesignHelpers.Resource.Color.material_teal_200 = global::GroteKerk.Resource.Color.material_teal_200;
+			global::MaterialDesignHelpers.Resource.Color.material_teal_300 = global::GroteKerk.Resource.Color.material_teal_300;
+			global::MaterialDesignHelpers.Resource.Color.material_teal_400 = global::GroteKerk.Resource.Color.material_teal_400;
+			global::MaterialDesignHelpers.Resource.Color.material_teal_50 = global::GroteKerk.Resource.Color.material_teal_50;
+			global::MaterialDesignHelpers.Resource.Color.material_teal_500 = global::GroteKerk.Resource.Color.material_teal_500;
+			global::MaterialDesignHelpers.Resource.Color.material_teal_600 = global::GroteKerk.Resource.Color.material_teal_600;
+			global::MaterialDesignHelpers.Resource.Color.material_teal_700 = global::GroteKerk.Resource.Color.material_teal_700;
+			global::MaterialDesignHelpers.Resource.Color.material_teal_800 = global::GroteKerk.Resource.Color.material_teal_800;
+			global::MaterialDesignHelpers.Resource.Color.material_teal_900 = global::GroteKerk.Resource.Color.material_teal_900;
+			global::MaterialDesignHelpers.Resource.Color.material_teal_accent_100 = global::GroteKerk.Resource.Color.material_teal_accent_100;
+			global::MaterialDesignHelpers.Resource.Color.material_teal_accent_200 = global::GroteKerk.Resource.Color.material_teal_accent_200;
+			global::MaterialDesignHelpers.Resource.Color.material_teal_accent_400 = global::GroteKerk.Resource.Color.material_teal_accent_400;
+			global::MaterialDesignHelpers.Resource.Color.material_teal_accent_700 = global::GroteKerk.Resource.Color.material_teal_accent_700;
+			global::MaterialDesignHelpers.Resource.Color.material_yellow_100 = global::GroteKerk.Resource.Color.material_yellow_100;
+			global::MaterialDesignHelpers.Resource.Color.material_yellow_200 = global::GroteKerk.Resource.Color.material_yellow_200;
+			global::MaterialDesignHelpers.Resource.Color.material_yellow_300 = global::GroteKerk.Resource.Color.material_yellow_300;
+			global::MaterialDesignHelpers.Resource.Color.material_yellow_400 = global::GroteKerk.Resource.Color.material_yellow_400;
+			global::MaterialDesignHelpers.Resource.Color.material_yellow_50 = global::GroteKerk.Resource.Color.material_yellow_50;
+			global::MaterialDesignHelpers.Resource.Color.material_yellow_500 = global::GroteKerk.Resource.Color.material_yellow_500;
+			global::MaterialDesignHelpers.Resource.Color.material_yellow_600 = global::GroteKerk.Resource.Color.material_yellow_600;
+			global::MaterialDesignHelpers.Resource.Color.material_yellow_700 = global::GroteKerk.Resource.Color.material_yellow_700;
+			global::MaterialDesignHelpers.Resource.Color.material_yellow_800 = global::GroteKerk.Resource.Color.material_yellow_800;
+			global::MaterialDesignHelpers.Resource.Color.material_yellow_900 = global::GroteKerk.Resource.Color.material_yellow_900;
+			global::MaterialDesignHelpers.Resource.Color.material_yellow_accent_100 = global::GroteKerk.Resource.Color.material_yellow_accent_100;
+			global::MaterialDesignHelpers.Resource.Color.material_yellow_accent_200 = global::GroteKerk.Resource.Color.material_yellow_accent_200;
+			global::MaterialDesignHelpers.Resource.Color.material_yellow_accent_400 = global::GroteKerk.Resource.Color.material_yellow_accent_400;
+			global::MaterialDesignHelpers.Resource.Color.material_yellow_accent_700 = global::GroteKerk.Resource.Color.material_yellow_accent_700;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_bottom_sheet_edge_left_right_margins = global::GroteKerk.Resource.Dimension.material_component_bottom_sheet_edge_left_right_margins;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_bottom_sheet_edge_top_bottom_margins = global::GroteKerk.Resource.Dimension.material_component_bottom_sheet_edge_top_bottom_margins;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_bottom_sheet_list_item_height = global::GroteKerk.Resource.Dimension.material_component_bottom_sheet_list_item_height;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_bottom_sheet_list_item_text_horizontal_padding = global::GroteKerk.Resource.Dimension.material_component_bottom_sheet_list_item_text_horizontal_padding;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_button_corner_radius = global::GroteKerk.Resource.Dimension.material_component_button_corner_radius;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_button_dense_height = global::GroteKerk.Resource.Dimension.material_component_button_dense_height;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_button_dense_text_size = global::GroteKerk.Resource.Dimension.material_component_button_dense_text_size;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_button_height = global::GroteKerk.Resource.Dimension.material_component_button_height;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_button_min_width = global::GroteKerk.Resource.Dimension.material_component_button_min_width;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_button_text_left_and_right_padding = global::GroteKerk.Resource.Dimension.material_component_button_text_left_and_right_padding;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_button_text_size = global::GroteKerk.Resource.Dimension.material_component_button_text_size;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_button_touchable_target_height = global::GroteKerk.Resource.Dimension.material_component_button_touchable_target_height;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_cards_action_button_row_padding = global::GroteKerk.Resource.Dimension.material_component_cards_action_button_row_padding;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_cards_left_and_right_padding = global::GroteKerk.Resource.Dimension.material_component_cards_left_and_right_padding;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_cards_padding_from_edge_of_screen_to_card = global::GroteKerk.Resource.Dimension.material_component_cards_padding_from_edge_of_screen_to_card;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_cards_primary_title_bottom_padding = global::GroteKerk.Resource.Dimension.material_component_cards_primary_title_bottom_padding;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_cards_primary_title_top_padding = global::GroteKerk.Resource.Dimension.material_component_cards_primary_title_top_padding;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_cards_space_between_cards = global::GroteKerk.Resource.Dimension.material_component_cards_space_between_cards;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_cards_supporting_text_bottom_padding = global::GroteKerk.Resource.Dimension.material_component_cards_supporting_text_bottom_padding;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_cards_supporting_text_top_padding = global::GroteKerk.Resource.Dimension.material_component_cards_supporting_text_top_padding;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_cards_top_and_bottom_padding = global::GroteKerk.Resource.Dimension.material_component_cards_top_and_bottom_padding;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_dialogs_action_area_height = global::GroteKerk.Resource.Dimension.material_component_dialogs_action_area_height;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_dialogs_elevation = global::GroteKerk.Resource.Dimension.material_component_dialogs_elevation;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_dialogs_padding_around_buttons = global::GroteKerk.Resource.Dimension.material_component_dialogs_padding_around_buttons;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_dialogs_padding_around_content_area = global::GroteKerk.Resource.Dimension.material_component_dialogs_padding_around_content_area;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_dialogs_padding_below_touch_target_to_dialog_edge = global::GroteKerk.Resource.Dimension.material_component_dialogs_padding_below_touch_target_to_dialog_edge;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_dialogs_padding_between_button_text_right_edge_and_dialog_edge = global::GroteKerk.Resource.Dimension.material_component_dialogs_padding_between_button_text_right_edge_and_dialog_edge;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_dialogs_padding_between_text_and_touch_target = global::GroteKerk.Resource.Dimension.material_component_dialogs_padding_between_text_and_touch_target;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_dialogs_padding_between_title_and_body_text = global::GroteKerk.Resource.Dimension.material_component_dialogs_padding_between_title_and_body_text;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_floating_action_button_margin = global::GroteKerk.Resource.Dimension.material_component_floating_action_button_margin;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_floating_action_button_mini_size = global::GroteKerk.Resource.Dimension.material_component_floating_action_button_mini_size;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_floating_action_button_size = global::GroteKerk.Resource.Dimension.material_component_floating_action_button_size;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_grid_lists_header_footer_height = global::GroteKerk.Resource.Dimension.material_component_grid_lists_header_footer_height;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_grid_lists_header_footer_text_padding = global::GroteKerk.Resource.Dimension.material_component_grid_lists_header_footer_text_padding;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_grid_lists_header_footer_text_size = global::GroteKerk.Resource.Dimension.material_component_grid_lists_header_footer_text_size;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_grid_lists_padding_big = global::GroteKerk.Resource.Dimension.material_component_grid_lists_padding_big;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_grid_lists_padding_small = global::GroteKerk.Resource.Dimension.material_component_grid_lists_padding_small;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_grid_lists_two_line_header_footer_height = global::GroteKerk.Resource.Dimension.material_component_grid_lists_two_line_header_footer_height;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_lists_icon_left_padding = global::GroteKerk.Resource.Dimension.material_component_lists_icon_left_padding;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_lists_padding_above_list = global::GroteKerk.Resource.Dimension.material_component_lists_padding_above_list;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_lists_right_padding = global::GroteKerk.Resource.Dimension.material_component_lists_right_padding;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_lists_single_line_height = global::GroteKerk.Resource.Dimension.material_component_lists_single_line_height;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_lists_single_line_text_size = global::GroteKerk.Resource.Dimension.material_component_lists_single_line_text_size;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_lists_single_line_with_avatar_height = global::GroteKerk.Resource.Dimension.material_component_lists_single_line_with_avatar_height;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_lists_text_left_padding = global::GroteKerk.Resource.Dimension.material_component_lists_text_left_padding;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_lists_text_padding_bottom = global::GroteKerk.Resource.Dimension.material_component_lists_text_padding_bottom;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_lists_three_line_height = global::GroteKerk.Resource.Dimension.material_component_lists_three_line_height;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_lists_two_line_height = global::GroteKerk.Resource.Dimension.material_component_lists_two_line_height;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_lists_two_line_secondary_text_size = global::GroteKerk.Resource.Dimension.material_component_lists_two_line_secondary_text_size;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_lists_two_line_text_size = global::GroteKerk.Resource.Dimension.material_component_lists_two_line_text_size;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_text_fields_floating_label_height = global::GroteKerk.Resource.Dimension.material_component_text_fields_floating_label_height;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_text_fields_floating_label_padding_above_label_text = global::GroteKerk.Resource.Dimension.material_component_text_fields_floating_label_padding_above_label_text;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_text_fields_floating_label_padding_below_input_text_including_divider = global::GroteKerk.Resource.Dimension.material_component_text_fields_floating_label_padding_below_input_text_including_divider;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_text_fields_floating_label_padding_below_text_divider = global::GroteKerk.Resource.Dimension.material_component_text_fields_floating_label_padding_below_text_divider;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_text_fields_floating_label_padding_between_label_and_input_text = global::GroteKerk.Resource.Dimension.material_component_text_fields_floating_label_padding_between_label_and_input_text;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_text_fields_icon_height = global::GroteKerk.Resource.Dimension.material_component_text_fields_icon_height;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_text_fields_padding_above_and_below_label = global::GroteKerk.Resource.Dimension.material_component_text_fields_padding_above_and_below_label;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_text_full_width_single_line_text_field_height = global::GroteKerk.Resource.Dimension.material_component_text_full_width_single_line_text_field_height;
+			global::MaterialDesignHelpers.Resource.Dimension.material_component_text_full_width_single_line_text_field_text_top_and_bottom_padding = global::GroteKerk.Resource.Dimension.material_component_text_full_width_single_line_text_field_text_top_and_bottom_padding;
+			global::MaterialDesignHelpers.Resource.Dimension.material_layout_app_bar_height = global::GroteKerk.Resource.Dimension.material_layout_app_bar_height;
+			global::MaterialDesignHelpers.Resource.Dimension.material_layout_app_bar_horizontal_padding = global::GroteKerk.Resource.Dimension.material_layout_app_bar_horizontal_padding;
+			global::MaterialDesignHelpers.Resource.Dimension.material_layout_app_bar_icon_padding = global::GroteKerk.Resource.Dimension.material_layout_app_bar_icon_padding;
+			global::MaterialDesignHelpers.Resource.Dimension.material_layout_app_bar_title_bottom_padding = global::GroteKerk.Resource.Dimension.material_layout_app_bar_title_bottom_padding;
+			global::MaterialDesignHelpers.Resource.Dimension.material_layout_app_bar_title_left_padding = global::GroteKerk.Resource.Dimension.material_layout_app_bar_title_left_padding;
+			global::MaterialDesignHelpers.Resource.Dimension.material_layout_avatar = global::GroteKerk.Resource.Dimension.material_layout_avatar;
+			global::MaterialDesignHelpers.Resource.Dimension.material_layout_button_height = global::GroteKerk.Resource.Dimension.material_layout_button_height;
+			global::MaterialDesignHelpers.Resource.Dimension.material_layout_icon = global::GroteKerk.Resource.Dimension.material_layout_icon;
+			global::MaterialDesignHelpers.Resource.Dimension.material_layout_keylines_content_left_margin_from_screen_edge = global::GroteKerk.Resource.Dimension.material_layout_keylines_content_left_margin_from_screen_edge;
+			global::MaterialDesignHelpers.Resource.Dimension.material_layout_keylines_horizontal_mobile_margin = global::GroteKerk.Resource.Dimension.material_layout_keylines_horizontal_mobile_margin;
+			global::MaterialDesignHelpers.Resource.Dimension.material_layout_keylines_screen_edge_margin = global::GroteKerk.Resource.Dimension.material_layout_keylines_screen_edge_margin;
+			global::MaterialDesignHelpers.Resource.Dimension.material_layout_touch_target = global::GroteKerk.Resource.Dimension.material_layout_touch_target;
+			global::MaterialDesignHelpers.Resource.Dimension.material_layout_vertical_spacing_between_content_areas = global::GroteKerk.Resource.Dimension.material_layout_vertical_spacing_between_content_areas;
+			global::MaterialDesignHelpers.Resource.Dimension.material_layout_vertical_spacing_list_item = global::GroteKerk.Resource.Dimension.material_layout_vertical_spacing_list_item;
+			global::MaterialDesignHelpers.Resource.Dimension.material_layout_vertical_spacing_navigation_right_margin = global::GroteKerk.Resource.Dimension.material_layout_vertical_spacing_navigation_right_margin;
+			global::MaterialDesignHelpers.Resource.Dimension.material_layout_vertical_spacing_right_side_icons_margin = global::GroteKerk.Resource.Dimension.material_layout_vertical_spacing_right_side_icons_margin;
+			global::MaterialDesignHelpers.Resource.Dimension.material_layout_vertical_spacing_status_bar = global::GroteKerk.Resource.Dimension.material_layout_vertical_spacing_status_bar;
+			global::MaterialDesignHelpers.Resource.Dimension.material_layout_vertical_spacing_subtitle = global::GroteKerk.Resource.Dimension.material_layout_vertical_spacing_subtitle;
+			global::MaterialDesignHelpers.Resource.Dimension.material_layout_vertical_spacing_tool_bar = global::GroteKerk.Resource.Dimension.material_layout_vertical_spacing_tool_bar;
 		}
 		
 		public partial class Animation
@@ -988,32 +1322,32 @@ namespace GroteKerk
 		public partial class Color
 		{
 			
-			// aapt resource value: 0x7f0b004e
-			public const int abc_background_cache_hint_selector_material_dark = 2131427406;
+			// aapt resource value: 0x7f0b0146
+			public const int abc_background_cache_hint_selector_material_dark = 2131427654;
 			
-			// aapt resource value: 0x7f0b004f
-			public const int abc_background_cache_hint_selector_material_light = 2131427407;
+			// aapt resource value: 0x7f0b0147
+			public const int abc_background_cache_hint_selector_material_light = 2131427655;
 			
-			// aapt resource value: 0x7f0b0050
-			public const int abc_color_highlight_material = 2131427408;
+			// aapt resource value: 0x7f0b0148
+			public const int abc_color_highlight_material = 2131427656;
 			
 			// aapt resource value: 0x7f0b0000
 			public const int abc_input_method_navigation_guard = 2131427328;
 			
-			// aapt resource value: 0x7f0b0051
-			public const int abc_primary_text_disable_only_material_dark = 2131427409;
+			// aapt resource value: 0x7f0b0149
+			public const int abc_primary_text_disable_only_material_dark = 2131427657;
 			
-			// aapt resource value: 0x7f0b0052
-			public const int abc_primary_text_disable_only_material_light = 2131427410;
+			// aapt resource value: 0x7f0b014a
+			public const int abc_primary_text_disable_only_material_light = 2131427658;
 			
-			// aapt resource value: 0x7f0b0053
-			public const int abc_primary_text_material_dark = 2131427411;
+			// aapt resource value: 0x7f0b014b
+			public const int abc_primary_text_material_dark = 2131427659;
 			
-			// aapt resource value: 0x7f0b0054
-			public const int abc_primary_text_material_light = 2131427412;
+			// aapt resource value: 0x7f0b014c
+			public const int abc_primary_text_material_light = 2131427660;
 			
-			// aapt resource value: 0x7f0b0055
-			public const int abc_search_url_text = 2131427413;
+			// aapt resource value: 0x7f0b014d
+			public const int abc_search_url_text = 2131427661;
 			
 			// aapt resource value: 0x7f0b0001
 			public const int abc_search_url_text_normal = 2131427329;
@@ -1024,14 +1358,14 @@ namespace GroteKerk
 			// aapt resource value: 0x7f0b0003
 			public const int abc_search_url_text_selected = 2131427331;
 			
-			// aapt resource value: 0x7f0b0056
-			public const int abc_secondary_text_material_dark = 2131427414;
+			// aapt resource value: 0x7f0b014e
+			public const int abc_secondary_text_material_dark = 2131427662;
 			
-			// aapt resource value: 0x7f0b0057
-			public const int abc_secondary_text_material_light = 2131427415;
+			// aapt resource value: 0x7f0b014f
+			public const int abc_secondary_text_material_light = 2131427663;
 			
-			// aapt resource value: 0x7f0b0046
-			public const int accent = 2131427398;
+			// aapt resource value: 0x7f0b013e
+			public const int accent = 2131427646;
 			
 			// aapt resource value: 0x7f0b0004
 			public const int accent_material_dark = 2131427332;
@@ -1051,20 +1385,20 @@ namespace GroteKerk
 			// aapt resource value: 0x7f0b0009
 			public const int background_material_light = 2131427337;
 			
-			// aapt resource value: 0x7f0b0048
-			public const int bg_screen_1 = 2131427400;
+			// aapt resource value: 0x7f0b0140
+			public const int bg_screen_1 = 2131427648;
 			
-			// aapt resource value: 0x7f0b0049
-			public const int bg_screen_2 = 2131427401;
+			// aapt resource value: 0x7f0b0141
+			public const int bg_screen_2 = 2131427649;
 			
-			// aapt resource value: 0x7f0b004a
-			public const int bg_screen_3 = 2131427402;
+			// aapt resource value: 0x7f0b0142
+			public const int bg_screen_3 = 2131427650;
 			
-			// aapt resource value: 0x7f0b004b
-			public const int bg_screen_4 = 2131427403;
+			// aapt resource value: 0x7f0b0143
+			public const int bg_screen_4 = 2131427651;
 			
-			// aapt resource value: 0x7f0b004d
-			public const int black = 2131427405;
+			// aapt resource value: 0x7f0b0145
+			public const int black = 2131427653;
 			
 			// aapt resource value: 0x7f0b000a
 			public const int bright_foreground_disabled_material_dark = 2131427338;
@@ -1150,6 +1484,114 @@ namespace GroteKerk
 			// aapt resource value: 0x7f0b001b
 			public const int hint_foreground_material_light = 2131427355;
 			
+			// aapt resource value: 0x7f0b00fb
+			public const int material_amber_100 = 2131427579;
+			
+			// aapt resource value: 0x7f0b00fc
+			public const int material_amber_200 = 2131427580;
+			
+			// aapt resource value: 0x7f0b00fd
+			public const int material_amber_300 = 2131427581;
+			
+			// aapt resource value: 0x7f0b00fe
+			public const int material_amber_400 = 2131427582;
+			
+			// aapt resource value: 0x7f0b00fa
+			public const int material_amber_50 = 2131427578;
+			
+			// aapt resource value: 0x7f0b00ff
+			public const int material_amber_500 = 2131427583;
+			
+			// aapt resource value: 0x7f0b0100
+			public const int material_amber_600 = 2131427584;
+			
+			// aapt resource value: 0x7f0b0101
+			public const int material_amber_700 = 2131427585;
+			
+			// aapt resource value: 0x7f0b0102
+			public const int material_amber_800 = 2131427586;
+			
+			// aapt resource value: 0x7f0b0103
+			public const int material_amber_900 = 2131427587;
+			
+			// aapt resource value: 0x7f0b0104
+			public const int material_amber_accent_100 = 2131427588;
+			
+			// aapt resource value: 0x7f0b0105
+			public const int material_amber_accent_200 = 2131427589;
+			
+			// aapt resource value: 0x7f0b0106
+			public const int material_amber_accent_400 = 2131427590;
+			
+			// aapt resource value: 0x7f0b0107
+			public const int material_amber_accent_700 = 2131427591;
+			
+			// aapt resource value: 0x7f0b008b
+			public const int material_blue_100 = 2131427467;
+			
+			// aapt resource value: 0x7f0b008c
+			public const int material_blue_200 = 2131427468;
+			
+			// aapt resource value: 0x7f0b008d
+			public const int material_blue_300 = 2131427469;
+			
+			// aapt resource value: 0x7f0b008e
+			public const int material_blue_400 = 2131427470;
+			
+			// aapt resource value: 0x7f0b008a
+			public const int material_blue_50 = 2131427466;
+			
+			// aapt resource value: 0x7f0b008f
+			public const int material_blue_500 = 2131427471;
+			
+			// aapt resource value: 0x7f0b0090
+			public const int material_blue_600 = 2131427472;
+			
+			// aapt resource value: 0x7f0b0091
+			public const int material_blue_700 = 2131427473;
+			
+			// aapt resource value: 0x7f0b0092
+			public const int material_blue_800 = 2131427474;
+			
+			// aapt resource value: 0x7f0b0093
+			public const int material_blue_900 = 2131427475;
+			
+			// aapt resource value: 0x7f0b0094
+			public const int material_blue_accent_100 = 2131427476;
+			
+			// aapt resource value: 0x7f0b0095
+			public const int material_blue_accent_200 = 2131427477;
+			
+			// aapt resource value: 0x7f0b0096
+			public const int material_blue_accent_400 = 2131427478;
+			
+			// aapt resource value: 0x7f0b0097
+			public const int material_blue_accent_700 = 2131427479;
+			
+			// aapt resource value: 0x7f0b0133
+			public const int material_blue_grey_100 = 2131427635;
+			
+			// aapt resource value: 0x7f0b0134
+			public const int material_blue_grey_200 = 2131427636;
+			
+			// aapt resource value: 0x7f0b0135
+			public const int material_blue_grey_300 = 2131427637;
+			
+			// aapt resource value: 0x7f0b0136
+			public const int material_blue_grey_400 = 2131427638;
+			
+			// aapt resource value: 0x7f0b0132
+			public const int material_blue_grey_50 = 2131427634;
+			
+			// aapt resource value: 0x7f0b0137
+			public const int material_blue_grey_500 = 2131427639;
+			
+			// aapt resource value: 0x7f0b0138
+			public const int material_blue_grey_600 = 2131427640;
+			
+			// aapt resource value: 0x7f0b0139
+			public const int material_blue_grey_700 = 2131427641;
+			
 			// aapt resource value: 0x7f0b001c
 			public const int material_blue_grey_800 = 2131427356;
 			
@@ -1159,23 +1601,233 @@ namespace GroteKerk
 			// aapt resource value: 0x7f0b001e
 			public const int material_blue_grey_950 = 2131427358;
 			
+			// aapt resource value: 0x7f0b0125
+			public const int material_brown_100 = 2131427621;
+			
+			// aapt resource value: 0x7f0b0126
+			public const int material_brown_200 = 2131427622;
+			
+			// aapt resource value: 0x7f0b0127
+			public const int material_brown_300 = 2131427623;
+			
+			// aapt resource value: 0x7f0b0128
+			public const int material_brown_400 = 2131427624;
+			
+			// aapt resource value: 0x7f0b0124
+			public const int material_brown_50 = 2131427620;
+			
+			// aapt resource value: 0x7f0b0129
+			public const int material_brown_500 = 2131427625;
+			
+			// aapt resource value: 0x7f0b012a
+			public const int material_brown_600 = 2131427626;
+			
+			// aapt resource value: 0x7f0b012b
+			public const int material_brown_700 = 2131427627;
+			
+			// aapt resource value: 0x7f0b012c
+			public const int material_brown_800 = 2131427628;
+			
+			// aapt resource value: 0x7f0b012d
+			public const int material_brown_900 = 2131427629;
+			
+			// aapt resource value: 0x7f0b00a7
+			public const int material_cyan_100 = 2131427495;
+			
+			// aapt resource value: 0x7f0b00a8
+			public const int material_cyan_200 = 2131427496;
+			
+			// aapt resource value: 0x7f0b00a9
+			public const int material_cyan_300 = 2131427497;
+			
+			// aapt resource value: 0x7f0b00aa
+			public const int material_cyan_400 = 2131427498;
+			
+			// aapt resource value: 0x7f0b00a6
+			public const int material_cyan_50 = 2131427494;
+			
+			// aapt resource value: 0x7f0b00ab
+			public const int material_cyan_500 = 2131427499;
+			
+			// aapt resource value: 0x7f0b00ac
+			public const int material_cyan_600 = 2131427500;
+			
+			// aapt resource value: 0x7f0b00ad
+			public const int material_cyan_700 = 2131427501;
+			
+			// aapt resource value: 0x7f0b00ae
+			public const int material_cyan_800 = 2131427502;
+			
+			// aapt resource value: 0x7f0b00af
+			public const int material_cyan_900 = 2131427503;
+			
+			// aapt resource value: 0x7f0b00b0
+			public const int material_cyan_accent_100 = 2131427504;
+			
+			// aapt resource value: 0x7f0b00b1
+			public const int material_cyan_accent_200 = 2131427505;
+			
+			// aapt resource value: 0x7f0b00b2
+			public const int material_cyan_accent_400 = 2131427506;
+			
+			// aapt resource value: 0x7f0b00b3
+			public const int material_cyan_accent_700 = 2131427507;
+			
+			// aapt resource value: 0x7f0b0117
+			public const int material_deep_orange_100 = 2131427607;
+			
+			// aapt resource value: 0x7f0b0118
+			public const int material_deep_orange_200 = 2131427608;
+			
+			// aapt resource value: 0x7f0b0119
+			public const int material_deep_orange_300 = 2131427609;
+			
+			// aapt resource value: 0x7f0b011a
+			public const int material_deep_orange_400 = 2131427610;
+			
+			// aapt resource value: 0x7f0b0116
+			public const int material_deep_orange_50 = 2131427606;
+			
+			// aapt resource value: 0x7f0b011b
+			public const int material_deep_orange_500 = 2131427611;
+			
+			// aapt resource value: 0x7f0b011c
+			public const int material_deep_orange_600 = 2131427612;
+			
+			// aapt resource value: 0x7f0b011d
+			public const int material_deep_orange_700 = 2131427613;
+			
+			// aapt resource value: 0x7f0b011e
+			public const int material_deep_orange_800 = 2131427614;
+			
+			// aapt resource value: 0x7f0b011f
+			public const int material_deep_orange_900 = 2131427615;
+			
+			// aapt resource value: 0x7f0b0120
+			public const int material_deep_orange_accent_100 = 2131427616;
+			
+			// aapt resource value: 0x7f0b0121
+			public const int material_deep_orange_accent_200 = 2131427617;
+			
+			// aapt resource value: 0x7f0b0122
+			public const int material_deep_orange_accent_400 = 2131427618;
+			
+			// aapt resource value: 0x7f0b0123
+			public const int material_deep_orange_accent_700 = 2131427619;
+			
+			// aapt resource value: 0x7f0b006f
+			public const int material_deep_purple_100 = 2131427439;
+			
+			// aapt resource value: 0x7f0b0070
+			public const int material_deep_purple_200 = 2131427440;
+			
+			// aapt resource value: 0x7f0b0071
+			public const int material_deep_purple_300 = 2131427441;
+			
+			// aapt resource value: 0x7f0b0072
+			public const int material_deep_purple_400 = 2131427442;
+			
+			// aapt resource value: 0x7f0b006e
+			public const int material_deep_purple_50 = 2131427438;
+			
+			// aapt resource value: 0x7f0b0073
+			public const int material_deep_purple_500 = 2131427443;
+			
+			// aapt resource value: 0x7f0b0074
+			public const int material_deep_purple_600 = 2131427444;
+			
+			// aapt resource value: 0x7f0b0075
+			public const int material_deep_purple_700 = 2131427445;
+			
+			// aapt resource value: 0x7f0b0076
+			public const int material_deep_purple_800 = 2131427446;
+			
+			// aapt resource value: 0x7f0b0077
+			public const int material_deep_purple_900 = 2131427447;
+			
+			// aapt resource value: 0x7f0b0078
+			public const int material_deep_purple_accent_100 = 2131427448;
+			
+			// aapt resource value: 0x7f0b0079
+			public const int material_deep_purple_accent_200 = 2131427449;
+			
+			// aapt resource value: 0x7f0b007a
+			public const int material_deep_purple_accent_400 = 2131427450;
+			
+			// aapt resource value: 0x7f0b007b
+			public const int material_deep_purple_accent_700 = 2131427451;
+			
 			// aapt resource value: 0x7f0b001f
 			public const int material_deep_teal_200 = 2131427359;
 			
 			// aapt resource value: 0x7f0b0020
 			public const int material_deep_teal_500 = 2131427360;
 			
+			// aapt resource value: 0x7f0b00c3
+			public const int material_green_100 = 2131427523;
+			
+			// aapt resource value: 0x7f0b00c4
+			public const int material_green_200 = 2131427524;
+			
+			// aapt resource value: 0x7f0b00c5
+			public const int material_green_300 = 2131427525;
+			
+			// aapt resource value: 0x7f0b00c6
+			public const int material_green_400 = 2131427526;
+			
+			// aapt resource value: 0x7f0b00c2
+			public const int material_green_50 = 2131427522;
+			
+			// aapt resource value: 0x7f0b00c7
+			public const int material_green_500 = 2131427527;
+			
+			// aapt resource value: 0x7f0b00c8
+			public const int material_green_600 = 2131427528;
+			
+			// aapt resource value: 0x7f0b00c9
+			public const int material_green_700 = 2131427529;
+			
+			// aapt resource value: 0x7f0b00ca
+			public const int material_green_800 = 2131427530;
+			
+			// aapt resource value: 0x7f0b00cb
+			public const int material_green_900 = 2131427531;
+			
+			// aapt resource value: 0x7f0b00cc
+			public const int material_green_accent_100 = 2131427532;
+			
+			// aapt resource value: 0x7f0b00cd
+			public const int material_green_accent_200 = 2131427533;
+			
+			// aapt resource value: 0x7f0b00ce
+			public const int material_green_accent_400 = 2131427534;
+			
+			// aapt resource value: 0x7f0b00cf
+			public const int material_green_accent_700 = 2131427535;
+			
 			// aapt resource value: 0x7f0b0021
 			public const int material_grey_100 = 2131427361;
+			
+			// aapt resource value: 0x7f0b012e
+			public const int material_grey_200 = 2131427630;
 			
 			// aapt resource value: 0x7f0b0022
 			public const int material_grey_300 = 2131427362;
 			
+			// aapt resource value: 0x7f0b012f
+			public const int material_grey_400 = 2131427631;
+			
 			// aapt resource value: 0x7f0b0023
 			public const int material_grey_50 = 2131427363;
 			
+			// aapt resource value: 0x7f0b0130
+			public const int material_grey_500 = 2131427632;
+			
 			// aapt resource value: 0x7f0b0024
 			public const int material_grey_600 = 2131427364;
+			
+			// aapt resource value: 0x7f0b0131
+			public const int material_grey_700 = 2131427633;
 			
 			// aapt resource value: 0x7f0b0025
 			public const int material_grey_800 = 2131427365;
@@ -1186,11 +1838,437 @@ namespace GroteKerk
 			// aapt resource value: 0x7f0b0027
 			public const int material_grey_900 = 2131427367;
 			
-			// aapt resource value: 0x7f0b0044
-			public const int primary = 2131427396;
+			// aapt resource value: 0x7f0b007d
+			public const int material_indigo_100 = 2131427453;
+			
+			// aapt resource value: 0x7f0b007e
+			public const int material_indigo_200 = 2131427454;
+			
+			// aapt resource value: 0x7f0b007f
+			public const int material_indigo_300 = 2131427455;
+			
+			// aapt resource value: 0x7f0b0080
+			public const int material_indigo_400 = 2131427456;
+			
+			// aapt resource value: 0x7f0b007c
+			public const int material_indigo_50 = 2131427452;
+			
+			// aapt resource value: 0x7f0b0081
+			public const int material_indigo_500 = 2131427457;
+			
+			// aapt resource value: 0x7f0b0082
+			public const int material_indigo_600 = 2131427458;
+			
+			// aapt resource value: 0x7f0b0083
+			public const int material_indigo_700 = 2131427459;
+			
+			// aapt resource value: 0x7f0b0084
+			public const int material_indigo_800 = 2131427460;
+			
+			// aapt resource value: 0x7f0b0085
+			public const int material_indigo_900 = 2131427461;
+			
+			// aapt resource value: 0x7f0b0086
+			public const int material_indigo_accent_100 = 2131427462;
+			
+			// aapt resource value: 0x7f0b0087
+			public const int material_indigo_accent_200 = 2131427463;
+			
+			// aapt resource value: 0x7f0b0088
+			public const int material_indigo_accent_400 = 2131427464;
+			
+			// aapt resource value: 0x7f0b0089
+			public const int material_indigo_accent_700 = 2131427465;
+			
+			// aapt resource value: 0x7f0b013a
+			public const int material_light_black = 2131427642;
+			
+			// aapt resource value: 0x7f0b0099
+			public const int material_light_blue_100 = 2131427481;
+			
+			// aapt resource value: 0x7f0b009a
+			public const int material_light_blue_200 = 2131427482;
+			
+			// aapt resource value: 0x7f0b009b
+			public const int material_light_blue_300 = 2131427483;
+			
+			// aapt resource value: 0x7f0b009c
+			public const int material_light_blue_400 = 2131427484;
+			
+			// aapt resource value: 0x7f0b0098
+			public const int material_light_blue_50 = 2131427480;
+			
+			// aapt resource value: 0x7f0b009d
+			public const int material_light_blue_500 = 2131427485;
+			
+			// aapt resource value: 0x7f0b009e
+			public const int material_light_blue_600 = 2131427486;
+			
+			// aapt resource value: 0x7f0b009f
+			public const int material_light_blue_700 = 2131427487;
+			
+			// aapt resource value: 0x7f0b00a0
+			public const int material_light_blue_800 = 2131427488;
+			
+			// aapt resource value: 0x7f0b00a1
+			public const int material_light_blue_900 = 2131427489;
+			
+			// aapt resource value: 0x7f0b00a2
+			public const int material_light_blue_accent_100 = 2131427490;
+			
+			// aapt resource value: 0x7f0b00a3
+			public const int material_light_blue_accent_200 = 2131427491;
+			
+			// aapt resource value: 0x7f0b00a4
+			public const int material_light_blue_accent_400 = 2131427492;
+			
+			// aapt resource value: 0x7f0b00a5
+			public const int material_light_blue_accent_700 = 2131427493;
+			
+			// aapt resource value: 0x7f0b00d1
+			public const int material_light_green_100 = 2131427537;
+			
+			// aapt resource value: 0x7f0b00d2
+			public const int material_light_green_200 = 2131427538;
+			
+			// aapt resource value: 0x7f0b00d3
+			public const int material_light_green_300 = 2131427539;
+			
+			// aapt resource value: 0x7f0b00d4
+			public const int material_light_green_400 = 2131427540;
+			
+			// aapt resource value: 0x7f0b00d0
+			public const int material_light_green_50 = 2131427536;
+			
+			// aapt resource value: 0x7f0b00d5
+			public const int material_light_green_500 = 2131427541;
+			
+			// aapt resource value: 0x7f0b00d6
+			public const int material_light_green_600 = 2131427542;
+			
+			// aapt resource value: 0x7f0b00d7
+			public const int material_light_green_700 = 2131427543;
+			
+			// aapt resource value: 0x7f0b00d8
+			public const int material_light_green_800 = 2131427544;
+			
+			// aapt resource value: 0x7f0b00d9
+			public const int material_light_green_900 = 2131427545;
+			
+			// aapt resource value: 0x7f0b00da
+			public const int material_light_green_accent_100 = 2131427546;
+			
+			// aapt resource value: 0x7f0b00db
+			public const int material_light_green_accent_200 = 2131427547;
+			
+			// aapt resource value: 0x7f0b00dc
+			public const int material_light_green_accent_400 = 2131427548;
+			
+			// aapt resource value: 0x7f0b00dd
+			public const int material_light_green_accent_700 = 2131427549;
+			
+			// aapt resource value: 0x7f0b013b
+			public const int material_light_white = 2131427643;
+			
+			// aapt resource value: 0x7f0b00df
+			public const int material_lime_100 = 2131427551;
+			
+			// aapt resource value: 0x7f0b00e0
+			public const int material_lime_200 = 2131427552;
+			
+			// aapt resource value: 0x7f0b00e1
+			public const int material_lime_300 = 2131427553;
+			
+			// aapt resource value: 0x7f0b00e2
+			public const int material_lime_400 = 2131427554;
+			
+			// aapt resource value: 0x7f0b00de
+			public const int material_lime_50 = 2131427550;
+			
+			// aapt resource value: 0x7f0b00e3
+			public const int material_lime_500 = 2131427555;
+			
+			// aapt resource value: 0x7f0b00e4
+			public const int material_lime_600 = 2131427556;
+			
+			// aapt resource value: 0x7f0b00e5
+			public const int material_lime_700 = 2131427557;
+			
+			// aapt resource value: 0x7f0b00e6
+			public const int material_lime_800 = 2131427558;
+			
+			// aapt resource value: 0x7f0b00e7
+			public const int material_lime_900 = 2131427559;
+			
+			// aapt resource value: 0x7f0b00e8
+			public const int material_lime_accent_100 = 2131427560;
+			
+			// aapt resource value: 0x7f0b00e9
+			public const int material_lime_accent_200 = 2131427561;
+			
+			// aapt resource value: 0x7f0b00ea
+			public const int material_lime_accent_400 = 2131427562;
+			
+			// aapt resource value: 0x7f0b00eb
+			public const int material_lime_accent_700 = 2131427563;
+			
+			// aapt resource value: 0x7f0b0109
+			public const int material_orange_100 = 2131427593;
+			
+			// aapt resource value: 0x7f0b010a
+			public const int material_orange_200 = 2131427594;
+			
+			// aapt resource value: 0x7f0b010b
+			public const int material_orange_300 = 2131427595;
+			
+			// aapt resource value: 0x7f0b010c
+			public const int material_orange_400 = 2131427596;
+			
+			// aapt resource value: 0x7f0b0108
+			public const int material_orange_50 = 2131427592;
+			
+			// aapt resource value: 0x7f0b010d
+			public const int material_orange_500 = 2131427597;
+			
+			// aapt resource value: 0x7f0b010e
+			public const int material_orange_600 = 2131427598;
+			
+			// aapt resource value: 0x7f0b010f
+			public const int material_orange_700 = 2131427599;
+			
+			// aapt resource value: 0x7f0b0110
+			public const int material_orange_800 = 2131427600;
+			
+			// aapt resource value: 0x7f0b0111
+			public const int material_orange_900 = 2131427601;
+			
+			// aapt resource value: 0x7f0b0112
+			public const int material_orange_accent_100 = 2131427602;
+			
+			// aapt resource value: 0x7f0b0113
+			public const int material_orange_accent_200 = 2131427603;
+			
+			// aapt resource value: 0x7f0b0114
+			public const int material_orange_accent_400 = 2131427604;
+			
+			// aapt resource value: 0x7f0b0115
+			public const int material_orange_accent_700 = 2131427605;
+			
+			// aapt resource value: 0x7f0b0053
+			public const int material_pink_100 = 2131427411;
+			
+			// aapt resource value: 0x7f0b0054
+			public const int material_pink_200 = 2131427412;
+			
+			// aapt resource value: 0x7f0b0055
+			public const int material_pink_300 = 2131427413;
+			
+			// aapt resource value: 0x7f0b0056
+			public const int material_pink_400 = 2131427414;
+			
+			// aapt resource value: 0x7f0b0052
+			public const int material_pink_50 = 2131427410;
+			
+			// aapt resource value: 0x7f0b0057
+			public const int material_pink_500 = 2131427415;
+			
+			// aapt resource value: 0x7f0b0058
+			public const int material_pink_600 = 2131427416;
+			
+			// aapt resource value: 0x7f0b0059
+			public const int material_pink_700 = 2131427417;
+			
+			// aapt resource value: 0x7f0b005a
+			public const int material_pink_800 = 2131427418;
+			
+			// aapt resource value: 0x7f0b005b
+			public const int material_pink_900 = 2131427419;
+			
+			// aapt resource value: 0x7f0b005c
+			public const int material_pink_accent_100 = 2131427420;
+			
+			// aapt resource value: 0x7f0b005d
+			public const int material_pink_accent_200 = 2131427421;
+			
+			// aapt resource value: 0x7f0b005e
+			public const int material_pink_accent_400 = 2131427422;
+			
+			// aapt resource value: 0x7f0b005f
+			public const int material_pink_accent_700 = 2131427423;
+			
+			// aapt resource value: 0x7f0b0061
+			public const int material_purple_100 = 2131427425;
+			
+			// aapt resource value: 0x7f0b0062
+			public const int material_purple_200 = 2131427426;
+			
+			// aapt resource value: 0x7f0b0063
+			public const int material_purple_300 = 2131427427;
+			
+			// aapt resource value: 0x7f0b0064
+			public const int material_purple_400 = 2131427428;
+			
+			// aapt resource value: 0x7f0b0060
+			public const int material_purple_50 = 2131427424;
+			
+			// aapt resource value: 0x7f0b0065
+			public const int material_purple_500 = 2131427429;
+			
+			// aapt resource value: 0x7f0b0066
+			public const int material_purple_600 = 2131427430;
+			
+			// aapt resource value: 0x7f0b0067
+			public const int material_purple_700 = 2131427431;
+			
+			// aapt resource value: 0x7f0b0068
+			public const int material_purple_800 = 2131427432;
+			
+			// aapt resource value: 0x7f0b0069
+			public const int material_purple_900 = 2131427433;
+			
+			// aapt resource value: 0x7f0b006a
+			public const int material_purple_accent_100 = 2131427434;
+			
+			// aapt resource value: 0x7f0b006b
+			public const int material_purple_accent_200 = 2131427435;
+			
+			// aapt resource value: 0x7f0b006c
+			public const int material_purple_accent_400 = 2131427436;
+			
+			// aapt resource value: 0x7f0b006d
+			public const int material_purple_accent_700 = 2131427437;
 			
 			// aapt resource value: 0x7f0b0045
-			public const int primaryDark = 2131427397;
+			public const int material_red_100 = 2131427397;
+			
+			// aapt resource value: 0x7f0b0046
+			public const int material_red_200 = 2131427398;
+			
+			// aapt resource value: 0x7f0b0047
+			public const int material_red_300 = 2131427399;
+			
+			// aapt resource value: 0x7f0b0048
+			public const int material_red_400 = 2131427400;
+			
+			// aapt resource value: 0x7f0b0044
+			public const int material_red_50 = 2131427396;
+			
+			// aapt resource value: 0x7f0b0049
+			public const int material_red_500 = 2131427401;
+			
+			// aapt resource value: 0x7f0b004a
+			public const int material_red_600 = 2131427402;
+			
+			// aapt resource value: 0x7f0b004b
+			public const int material_red_700 = 2131427403;
+			
+			// aapt resource value: 0x7f0b004c
+			public const int material_red_800 = 2131427404;
+			
+			// aapt resource value: 0x7f0b004d
+			public const int material_red_900 = 2131427405;
+			
+			// aapt resource value: 0x7f0b004e
+			public const int material_red_accent_100 = 2131427406;
+			
+			// aapt resource value: 0x7f0b004f
+			public const int material_red_accent_200 = 2131427407;
+			
+			// aapt resource value: 0x7f0b0050
+			public const int material_red_accent_400 = 2131427408;
+			
+			// aapt resource value: 0x7f0b0051
+			public const int material_red_accent_700 = 2131427409;
+			
+			// aapt resource value: 0x7f0b00b5
+			public const int material_teal_100 = 2131427509;
+			
+			// aapt resource value: 0x7f0b00b6
+			public const int material_teal_200 = 2131427510;
+			
+			// aapt resource value: 0x7f0b00b7
+			public const int material_teal_300 = 2131427511;
+			
+			// aapt resource value: 0x7f0b00b8
+			public const int material_teal_400 = 2131427512;
+			
+			// aapt resource value: 0x7f0b00b4
+			public const int material_teal_50 = 2131427508;
+			
+			// aapt resource value: 0x7f0b00b9
+			public const int material_teal_500 = 2131427513;
+			
+			// aapt resource value: 0x7f0b00ba
+			public const int material_teal_600 = 2131427514;
+			
+			// aapt resource value: 0x7f0b00bb
+			public const int material_teal_700 = 2131427515;
+			
+			// aapt resource value: 0x7f0b00bc
+			public const int material_teal_800 = 2131427516;
+			
+			// aapt resource value: 0x7f0b00bd
+			public const int material_teal_900 = 2131427517;
+			
+			// aapt resource value: 0x7f0b00be
+			public const int material_teal_accent_100 = 2131427518;
+			
+			// aapt resource value: 0x7f0b00bf
+			public const int material_teal_accent_200 = 2131427519;
+			
+			// aapt resource value: 0x7f0b00c0
+			public const int material_teal_accent_400 = 2131427520;
+			
+			// aapt resource value: 0x7f0b00c1
+			public const int material_teal_accent_700 = 2131427521;
+			
+			// aapt resource value: 0x7f0b00ed
+			public const int material_yellow_100 = 2131427565;
+			
+			// aapt resource value: 0x7f0b00ee
+			public const int material_yellow_200 = 2131427566;
+			
+			// aapt resource value: 0x7f0b00ef
+			public const int material_yellow_300 = 2131427567;
+			
+			// aapt resource value: 0x7f0b00f0
+			public const int material_yellow_400 = 2131427568;
+			
+			// aapt resource value: 0x7f0b00ec
+			public const int material_yellow_50 = 2131427564;
+			
+			// aapt resource value: 0x7f0b00f1
+			public const int material_yellow_500 = 2131427569;
+			
+			// aapt resource value: 0x7f0b00f2
+			public const int material_yellow_600 = 2131427570;
+			
+			// aapt resource value: 0x7f0b00f3
+			public const int material_yellow_700 = 2131427571;
+			
+			// aapt resource value: 0x7f0b00f4
+			public const int material_yellow_800 = 2131427572;
+			
+			// aapt resource value: 0x7f0b00f5
+			public const int material_yellow_900 = 2131427573;
+			
+			// aapt resource value: 0x7f0b00f6
+			public const int material_yellow_accent_100 = 2131427574;
+			
+			// aapt resource value: 0x7f0b00f7
+			public const int material_yellow_accent_200 = 2131427575;
+			
+			// aapt resource value: 0x7f0b00f8
+			public const int material_yellow_accent_400 = 2131427576;
+			
+			// aapt resource value: 0x7f0b00f9
+			public const int material_yellow_accent_700 = 2131427577;
+			
+			// aapt resource value: 0x7f0b013c
+			public const int primary = 2131427644;
+			
+			// aapt resource value: 0x7f0b013d
+			public const int primaryDark = 2131427645;
 			
 			// aapt resource value: 0x7f0b0028
 			public const int primary_dark_material_dark = 2131427368;
@@ -1240,11 +2318,11 @@ namespace GroteKerk
 			// aapt resource value: 0x7f0b0037
 			public const int switch_thumb_disabled_material_light = 2131427383;
 			
-			// aapt resource value: 0x7f0b0058
-			public const int switch_thumb_material_dark = 2131427416;
+			// aapt resource value: 0x7f0b0150
+			public const int switch_thumb_material_dark = 2131427664;
 			
-			// aapt resource value: 0x7f0b0059
-			public const int switch_thumb_material_light = 2131427417;
+			// aapt resource value: 0x7f0b0151
+			public const int switch_thumb_material_light = 2131427665;
 			
 			// aapt resource value: 0x7f0b0038
 			public const int switch_thumb_normal_material_dark = 2131427384;
@@ -1252,11 +2330,11 @@ namespace GroteKerk
 			// aapt resource value: 0x7f0b0039
 			public const int switch_thumb_normal_material_light = 2131427385;
 			
-			// aapt resource value: 0x7f0b004c
-			public const int white = 2131427404;
+			// aapt resource value: 0x7f0b0144
+			public const int white = 2131427652;
 			
-			// aapt resource value: 0x7f0b0047
-			public const int window_background = 2131427399;
+			// aapt resource value: 0x7f0b013f
+			public const int window_background = 2131427647;
 			
 			static Color()
 			{
@@ -1583,6 +2661,276 @@ namespace GroteKerk
 			// aapt resource value: 0x7f050002
 			public const int item_touch_helper_swipe_escape_velocity = 2131034114;
 			
+			// aapt resource value: 0x7f0500c4
+			public const int material_component_bottom_navigation_height = 2131034308;
+			
+			// aapt resource value: 0x7f05007e
+			public const int material_component_bottom_sheet_edge_left_right_margins = 2131034238;
+			
+			// aapt resource value: 0x7f05007f
+			public const int material_component_bottom_sheet_edge_top_bottom_margins = 2131034239;
+			
+			// aapt resource value: 0x7f050080
+			public const int material_component_bottom_sheet_list_item_height = 2131034240;
+			
+			// aapt resource value: 0x7f050081
+			public const int material_component_bottom_sheet_list_item_text_horizontal_padding = 2131034241;
+			
+			// aapt resource value: 0x7f050086
+			public const int material_component_button_corner_radius = 2131034246;
+			
+			// aapt resource value: 0x7f050083
+			public const int material_component_button_dense_height = 2131034243;
+			
+			// aapt resource value: 0x7f050089
+			public const int material_component_button_dense_text_size = 2131034249;
+			
+			// aapt resource value: 0x7f050082
+			public const int material_component_button_height = 2131034242;
+			
+			// aapt resource value: 0x7f050084
+			public const int material_component_button_min_width = 2131034244;
+			
+			// aapt resource value: 0x7f050087
+			public const int material_component_button_text_left_and_right_padding = 2131034247;
+			
+			// aapt resource value: 0x7f050088
+			public const int material_component_button_text_size = 2131034248;
+			
+			// aapt resource value: 0x7f050085
+			public const int material_component_button_touchable_target_height = 2131034245;
+			
+			// aapt resource value: 0x7f05008f
+			public const int material_component_cards_action_button_row_padding = 2131034255;
+			
+			// aapt resource value: 0x7f050092
+			public const int material_component_cards_left_and_right_padding = 2131034258;
+			
+			// aapt resource value: 0x7f050094
+			public const int material_component_cards_padding_from_edge_of_screen_to_card = 2131034260;
+			
+			// aapt resource value: 0x7f05008e
+			public const int material_component_cards_primary_title_bottom_padding = 2131034254;
+			
+			// aapt resource value: 0x7f05008d
+			public const int material_component_cards_primary_title_top_padding = 2131034253;
+			
+			// aapt resource value: 0x7f050095
+			public const int material_component_cards_space_between_cards = 2131034261;
+			
+			// aapt resource value: 0x7f050091
+			public const int material_component_cards_supporting_text_bottom_padding = 2131034257;
+			
+			// aapt resource value: 0x7f050090
+			public const int material_component_cards_supporting_text_top_padding = 2131034256;
+			
+			// aapt resource value: 0x7f050093
+			public const int material_component_cards_top_and_bottom_padding = 2131034259;
+			
+			// aapt resource value: 0x7f050099
+			public const int material_component_dialogs_action_area_height = 2131034265;
+			
+			// aapt resource value: 0x7f05009b
+			public const int material_component_dialogs_elevation = 2131034267;
+			
+			// aapt resource value: 0x7f050098
+			public const int material_component_dialogs_padding_around_buttons = 2131034264;
+			
+			// aapt resource value: 0x7f050096
+			public const int material_component_dialogs_padding_around_content_area = 2131034262;
+			
+			// aapt resource value: 0x7f05009c
+			public const int material_component_dialogs_padding_below_touch_target_to_dialog_edge = 2131034268;
+			
+			// aapt resource value: 0x7f05009d
+			public const int material_component_dialogs_padding_between_button_text_right_edge_and_dialog_edge = 2131034269;
+			
+			// aapt resource value: 0x7f05009a
+			public const int material_component_dialogs_padding_between_text_and_touch_target = 2131034266;
+			
+			// aapt resource value: 0x7f050097
+			public const int material_component_dialogs_padding_between_title_and_body_text = 2131034263;
+			
+			// aapt resource value: 0x7f05008a
+			public const int material_component_floating_action_button_margin = 2131034250;
+			
+			// aapt resource value: 0x7f05008c
+			public const int material_component_floating_action_button_mini_size = 2131034252;
+			
+			// aapt resource value: 0x7f05008b
+			public const int material_component_floating_action_button_size = 2131034251;
+			
+			// aapt resource value: 0x7f05009e
+			public const int material_component_grid_lists_header_footer_height = 2131034270;
+			
+			// aapt resource value: 0x7f05009f
+			public const int material_component_grid_lists_header_footer_text_padding = 2131034271;
+			
+			// aapt resource value: 0x7f0500a0
+			public const int material_component_grid_lists_header_footer_text_size = 2131034272;
+			
+			// aapt resource value: 0x7f0500a2
+			public const int material_component_grid_lists_padding_big = 2131034274;
+			
+			// aapt resource value: 0x7f0500a3
+			public const int material_component_grid_lists_padding_small = 2131034275;
+			
+			// aapt resource value: 0x7f0500a1
+			public const int material_component_grid_lists_two_line_header_footer_height = 2131034273;
+			
+			// aapt resource value: 0x7f0500a4
+			public const int material_component_lists_icon_left_padding = 2131034276;
+			
+			// aapt resource value: 0x7f0500a8
+			public const int material_component_lists_padding_above_list = 2131034280;
+			
+			// aapt resource value: 0x7f0500a6
+			public const int material_component_lists_right_padding = 2131034278;
+			
+			// aapt resource value: 0x7f0500a7
+			public const int material_component_lists_single_line_height = 2131034279;
+			
+			// aapt resource value: 0x7f0500aa
+			public const int material_component_lists_single_line_text_size = 2131034282;
+			
+			// aapt resource value: 0x7f0500a9
+			public const int material_component_lists_single_line_with_avatar_height = 2131034281;
+			
+			// aapt resource value: 0x7f0500a5
+			public const int material_component_lists_text_left_padding = 2131034277;
+			
+			// aapt resource value: 0x7f0500af
+			public const int material_component_lists_text_padding_bottom = 2131034287;
+			
+			// aapt resource value: 0x7f0500ae
+			public const int material_component_lists_three_line_height = 2131034286;
+			
+			// aapt resource value: 0x7f0500ab
+			public const int material_component_lists_two_line_height = 2131034283;
+			
+			// aapt resource value: 0x7f0500ad
+			public const int material_component_lists_two_line_secondary_text_size = 2131034285;
+			
+			// aapt resource value: 0x7f0500ac
+			public const int material_component_lists_two_line_text_size = 2131034284;
+			
+			// aapt resource value: 0x7f0500b0
+			public const int material_component_text_fields_floating_label_height = 2131034288;
+			
+			// aapt resource value: 0x7f0500b1
+			public const int material_component_text_fields_floating_label_padding_above_label_text = 2131034289;
+			
+			// aapt resource value: 0x7f0500b3
+			public const int material_component_text_fields_floating_label_padding_below_input_text_including_divider = 2131034291;
+			
+			// aapt resource value: 0x7f0500b4
+			public const int material_component_text_fields_floating_label_padding_below_text_divider = 2131034292;
+			
+			// aapt resource value: 0x7f0500b2
+			public const int material_component_text_fields_floating_label_padding_between_label_and_input_text = 2131034290;
+			
+			// aapt resource value: 0x7f0500b5
+			public const int material_component_text_fields_icon_height = 2131034293;
+			
+			// aapt resource value: 0x7f0500b6
+			public const int material_component_text_fields_padding_above_and_below_label = 2131034294;
+			
+			// aapt resource value: 0x7f0500b7
+			public const int material_component_text_full_width_single_line_text_field_height = 2131034295;
+			
+			// aapt resource value: 0x7f0500b8
+			public const int material_component_text_full_width_single_line_text_field_text_top_and_bottom_padding = 2131034296;
+			
+			// aapt resource value: 0x7f050079
+			public const int material_layout_app_bar_height = 2131034233;
+			
+			// aapt resource value: 0x7f05007a
+			public const int material_layout_app_bar_horizontal_padding = 2131034234;
+			
+			// aapt resource value: 0x7f05007b
+			public const int material_layout_app_bar_icon_padding = 2131034235;
+			
+			// aapt resource value: 0x7f05007d
+			public const int material_layout_app_bar_title_bottom_padding = 2131034237;
+			
+			// aapt resource value: 0x7f05007c
+			public const int material_layout_app_bar_title_left_padding = 2131034236;
+			
+			// aapt resource value: 0x7f050075
+			public const int material_layout_avatar = 2131034229;
+			
+			// aapt resource value: 0x7f050078
+			public const int material_layout_button_height = 2131034232;
+			
+			// aapt resource value: 0x7f050076
+			public const int material_layout_icon = 2131034230;
+			
+			// aapt resource value: 0x7f05006c
+			public const int material_layout_keylines_content_left_margin_from_screen_edge = 2131034220;
+			
+			// aapt resource value: 0x7f05006d
+			public const int material_layout_keylines_horizontal_mobile_margin = 2131034221;
+			
+			// aapt resource value: 0x7f05006b
+			public const int material_layout_keylines_screen_edge_margin = 2131034219;
+			
+			// aapt resource value: 0x7f050077
+			public const int material_layout_touch_target = 2131034231;
+			
+			// aapt resource value: 0x7f050072
+			public const int material_layout_vertical_spacing_between_content_areas = 2131034226;
+			
+			// aapt resource value: 0x7f050071
+			public const int material_layout_vertical_spacing_list_item = 2131034225;
+			
+			// aapt resource value: 0x7f050074
+			public const int material_layout_vertical_spacing_navigation_right_margin = 2131034228;
+			
+			// aapt resource value: 0x7f050073
+			public const int material_layout_vertical_spacing_right_side_icons_margin = 2131034227;
+			
+			// aapt resource value: 0x7f05006e
+			public const int material_layout_vertical_spacing_status_bar = 2131034222;
+			
+			// aapt resource value: 0x7f050070
+			public const int material_layout_vertical_spacing_subtitle = 2131034224;
+			
+			// aapt resource value: 0x7f05006f
+			public const int material_layout_vertical_spacing_tool_bar = 2131034223;
+			
+			// aapt resource value: 0x7f0500bb
+			public const int material_typography_body1 = 2131034299;
+			
+			// aapt resource value: 0x7f0500bc
+			public const int material_typography_body2 = 2131034300;
+			
+			// aapt resource value: 0x7f0500b9
+			public const int material_typography_button = 2131034297;
+			
+			// aapt resource value: 0x7f0500ba
+			public const int material_typography_caption = 2131034298;
+			
+			// aapt resource value: 0x7f0500c0
+			public const int material_typography_display1 = 2131034304;
+			
+			// aapt resource value: 0x7f0500c1
+			public const int material_typography_display2 = 2131034305;
+			
+			// aapt resource value: 0x7f0500c2
+			public const int material_typography_display3 = 2131034306;
+			
+			// aapt resource value: 0x7f0500c3
+			public const int material_typography_display4 = 2131034307;
+			
+			// aapt resource value: 0x7f0500bf
+			public const int material_typography_headline = 2131034303;
+			
+			// aapt resource value: 0x7f0500bd
+			public const int material_typography_subheading = 2131034301;
+			
+			// aapt resource value: 0x7f0500be
+			public const int material_typography_title = 2131034302;
+			
 			// aapt resource value: 0x7f05004b
 			public const int notification_large_icon_height = 2131034187;
 			
@@ -1867,8 +3215,8 @@ namespace GroteKerk
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f060078
-			public const int action0 = 2131099768;
+			// aapt resource value: 0x7f06007a
+			public const int action0 = 2131099770;
 			
 			// aapt resource value: 0x7f06005a
 			public const int action_bar = 2131099738;
@@ -1894,8 +3242,8 @@ namespace GroteKerk
 			// aapt resource value: 0x7f06005b
 			public const int action_context_bar = 2131099739;
 			
-			// aapt resource value: 0x7f06007c
-			public const int action_divider = 2131099772;
+			// aapt resource value: 0x7f06007e
+			public const int action_divider = 2131099774;
 			
 			// aapt resource value: 0x7f060003
 			public const int action_menu_divider = 2131099651;
@@ -1918,8 +3266,17 @@ namespace GroteKerk
 			// aapt resource value: 0x7f060049
 			public const int alertTitle = 2131099721;
 			
-			// aapt resource value: 0x7f060085
-			public const int algemene_app = 2131099781;
+			// aapt resource value: 0x7f060087
+			public const int algemeen_app = 2131099783;
+			
+			// aapt resource value: 0x7f06008a
+			public const int algemeen_home = 2131099786;
+			
+			// aapt resource value: 0x7f06006a
+			public const int algemeen_welkomst_tekst = 2131099754;
+			
+			// aapt resource value: 0x7f060069
+			public const int algemeen_welkomst_title = 2131099753;
 			
 			// aapt resource value: 0x7f06001e
 			public const int always = 2131099678;
@@ -1933,8 +3290,8 @@ namespace GroteKerk
 			// aapt resource value: 0x7f060044
 			public const int buttonPanel = 2131099716;
 			
-			// aapt resource value: 0x7f060079
-			public const int cancel_action = 2131099769;
+			// aapt resource value: 0x7f06007b
+			public const int cancel_action = 2131099771;
 			
 			// aapt resource value: 0x7f06002b
 			public const int center = 2131099691;
@@ -1948,11 +3305,11 @@ namespace GroteKerk
 			// aapt resource value: 0x7f060052
 			public const int checkbox = 2131099730;
 			
-			// aapt resource value: 0x7f060077
-			public const int choose_app = 2131099767;
+			// aapt resource value: 0x7f060079
+			public const int choose_app = 2131099769;
 			
-			// aapt resource value: 0x7f06007f
-			public const int chronometer = 2131099775;
+			// aapt resource value: 0x7f060081
+			public const int chronometer = 2131099777;
 			
 			// aapt resource value: 0x7f060033
 			public const int clip_horizontal = 2131099699;
@@ -1966,8 +3323,8 @@ namespace GroteKerk
 			// aapt resource value: 0x7f06004a
 			public const int contentPanel = 2131099722;
 			
-			// aapt resource value: 0x7f060076
-			public const int current_app_title = 2131099766;
+			// aapt resource value: 0x7f060078
+			public const int current_app_title = 2131099768;
 			
 			// aapt resource value: 0x7f060050
 			public const int custom = 2131099728;
@@ -1981,26 +3338,26 @@ namespace GroteKerk
 			// aapt resource value: 0x7f060040
 			public const int default_activity_button = 2131099712;
 			
-			// aapt resource value: 0x7f06006a
-			public const int design_bottom_sheet = 2131099754;
+			// aapt resource value: 0x7f06006c
+			public const int design_bottom_sheet = 2131099756;
+			
+			// aapt resource value: 0x7f060073
+			public const int design_menu_item_action_area = 2131099763;
+			
+			// aapt resource value: 0x7f060072
+			public const int design_menu_item_action_area_stub = 2131099762;
 			
 			// aapt resource value: 0x7f060071
-			public const int design_menu_item_action_area = 2131099761;
+			public const int design_menu_item_text = 2131099761;
 			
 			// aapt resource value: 0x7f060070
-			public const int design_menu_item_action_area_stub = 2131099760;
-			
-			// aapt resource value: 0x7f06006f
-			public const int design_menu_item_text = 2131099759;
-			
-			// aapt resource value: 0x7f06006e
-			public const int design_navigation_view = 2131099758;
+			public const int design_navigation_view = 2131099760;
 			
 			// aapt resource value: 0x7f06000e
 			public const int disableHome = 2131099662;
 			
-			// aapt resource value: 0x7f060072
-			public const int drawer_layout = 2131099762;
+			// aapt resource value: 0x7f060074
+			public const int drawer_layout = 2131099764;
 			
 			// aapt resource value: 0x7f06005c
 			public const int edit_query = 2131099740;
@@ -2008,8 +3365,8 @@ namespace GroteKerk
 			// aapt resource value: 0x7f06001c
 			public const int end = 2131099676;
 			
-			// aapt resource value: 0x7f060084
-			public const int end_padder = 2131099780;
+			// aapt resource value: 0x7f060086
+			public const int end_padder = 2131099782;
 			
 			// aapt resource value: 0x7f060023
 			public const int enterAlways = 2131099683;
@@ -2038,8 +3395,8 @@ namespace GroteKerk
 			// aapt resource value: 0x7f060038
 			public const int @fixed = 2131099704;
 			
-			// aapt resource value: 0x7f060074
-			public const int fragment_container = 2131099764;
+			// aapt resource value: 0x7f060076
+			public const int fragment_container = 2131099766;
 			
 			// aapt resource value: 0x7f060005
 			public const int home = 2131099653;
@@ -2056,26 +3413,32 @@ namespace GroteKerk
 			// aapt resource value: 0x7f06003f
 			public const int image = 2131099711;
 			
-			// aapt resource value: 0x7f060083
-			public const int info = 2131099779;
+			// aapt resource value: 0x7f060085
+			public const int info = 2131099781;
 			
 			// aapt resource value: 0x7f060000
 			public const int item_touch_helper_previous_elevation = 2131099648;
 			
-			// aapt resource value: 0x7f060087
-			public const int kinder_app = 2131099783;
+			// aapt resource value: 0x7f060089
+			public const int kids_app = 2131099785;
+			
+			// aapt resource value: 0x7f06008b
+			public const int kids_home = 2131099787;
+			
+			// aapt resource value: 0x7f06008c
+			public const int kids_quiz = 2131099788;
 			
 			// aapt resource value: 0x7f06002f
 			public const int left = 2131099695;
 			
-			// aapt resource value: 0x7f060075
-			public const int left_drawer = 2131099765;
+			// aapt resource value: 0x7f060077
+			public const int left_drawer = 2131099767;
 			
-			// aapt resource value: 0x7f06007d
-			public const int line1 = 2131099773;
+			// aapt resource value: 0x7f06007f
+			public const int line1 = 2131099775;
 			
-			// aapt resource value: 0x7f060081
-			public const int line3 = 2131099777;
+			// aapt resource value: 0x7f060083
+			public const int line3 = 2131099779;
 			
 			// aapt resource value: 0x7f06000b
 			public const int listMode = 2131099659;
@@ -2083,8 +3446,8 @@ namespace GroteKerk
 			// aapt resource value: 0x7f060041
 			public const int list_item = 2131099713;
 			
-			// aapt resource value: 0x7f06007b
-			public const int media_actions = 2131099771;
+			// aapt resource value: 0x7f06007d
+			public const int media_actions = 2131099773;
 			
 			// aapt resource value: 0x7f06001d
 			public const int middle = 2131099677;
@@ -2095,8 +3458,8 @@ namespace GroteKerk
 			// aapt resource value: 0x7f060016
 			public const int multiply = 2131099670;
 			
-			// aapt resource value: 0x7f06006d
-			public const int navigation_header_container = 2131099757;
+			// aapt resource value: 0x7f06006f
+			public const int navigation_header_container = 2131099759;
 			
 			// aapt resource value: 0x7f060021
 			public const int never = 2131099681;
@@ -2191,11 +3554,11 @@ namespace GroteKerk
 			// aapt resource value: 0x7f060013
 			public const int showTitle = 2131099667;
 			
-			// aapt resource value: 0x7f06006c
-			public const int snackbar_action = 2131099756;
+			// aapt resource value: 0x7f06006e
+			public const int snackbar_action = 2131099758;
 			
-			// aapt resource value: 0x7f06006b
-			public const int snackbar_text = 2131099755;
+			// aapt resource value: 0x7f06006d
+			public const int snackbar_text = 2131099757;
 			
 			// aapt resource value: 0x7f060027
 			public const int snap = 2131099687;
@@ -2218,8 +3581,8 @@ namespace GroteKerk
 			// aapt resource value: 0x7f060031
 			public const int start = 2131099697;
 			
-			// aapt resource value: 0x7f06007a
-			public const int status_bar_latest_event_content = 2131099770;
+			// aapt resource value: 0x7f06007c
+			public const int status_bar_latest_event_content = 2131099772;
 			
 			// aapt resource value: 0x7f060065
 			public const int submit_area = 2131099749;
@@ -2227,17 +3590,17 @@ namespace GroteKerk
 			// aapt resource value: 0x7f06000d
 			public const int tabMode = 2131099661;
 			
-			// aapt resource value: 0x7f060082
-			public const int text = 2131099778;
+			// aapt resource value: 0x7f060084
+			public const int text = 2131099780;
 			
-			// aapt resource value: 0x7f060080
-			public const int text2 = 2131099776;
+			// aapt resource value: 0x7f060082
+			public const int text2 = 2131099778;
 			
 			// aapt resource value: 0x7f06004d
 			public const int textSpacerNoButtons = 2131099725;
 			
-			// aapt resource value: 0x7f06007e
-			public const int time = 2131099774;
+			// aapt resource value: 0x7f060080
+			public const int time = 2131099776;
 			
 			// aapt resource value: 0x7f060043
 			public const int title = 2131099715;
@@ -2245,8 +3608,8 @@ namespace GroteKerk
 			// aapt resource value: 0x7f060048
 			public const int title_template = 2131099720;
 			
-			// aapt resource value: 0x7f060073
-			public const int toolbar = 2131099763;
+			// aapt resource value: 0x7f060075
+			public const int toolbar = 2131099765;
 			
 			// aapt resource value: 0x7f060032
 			public const int top = 2131099698;
@@ -2254,8 +3617,8 @@ namespace GroteKerk
 			// aapt resource value: 0x7f060047
 			public const int topPanel = 2131099719;
 			
-			// aapt resource value: 0x7f060069
-			public const int touch_outside = 2131099753;
+			// aapt resource value: 0x7f06006b
+			public const int touch_outside = 2131099755;
 			
 			// aapt resource value: 0x7f060009
 			public const int up = 2131099657;
@@ -2272,17 +3635,17 @@ namespace GroteKerk
 			// aapt resource value: 0x7f060015
 			public const int wrap_content = 2131099669;
 			
-			// aapt resource value: 0x7f060086
-			public const int zerken_app = 2131099782;
-			
 			// aapt resource value: 0x7f060088
-			public const int zerken_home = 2131099784;
+			public const int zerken_app = 2131099784;
 			
-			// aapt resource value: 0x7f06008a
-			public const int zerken_list = 2131099786;
+			// aapt resource value: 0x7f06008d
+			public const int zerken_home = 2131099789;
 			
-			// aapt resource value: 0x7f060089
-			public const int zerken_map = 2131099785;
+			// aapt resource value: 0x7f06008f
+			public const int zerken_list = 2131099791;
+			
+			// aapt resource value: 0x7f06008e
+			public const int zerken_map = 2131099790;
 			
 			static Id()
 			{
@@ -2407,85 +3770,94 @@ namespace GroteKerk
 			public const int abc_select_dialog_material = 2130903064;
 			
 			// aapt resource value: 0x7f030019
-			public const int design_bottom_sheet_dialog = 2130903065;
+			public const int AlgemeenHome = 2130903065;
 			
 			// aapt resource value: 0x7f03001a
-			public const int design_layout_snackbar = 2130903066;
+			public const int design_bottom_sheet_dialog = 2130903066;
 			
 			// aapt resource value: 0x7f03001b
-			public const int design_layout_snackbar_include = 2130903067;
+			public const int design_layout_snackbar = 2130903067;
 			
 			// aapt resource value: 0x7f03001c
-			public const int design_layout_tab_icon = 2130903068;
+			public const int design_layout_snackbar_include = 2130903068;
 			
 			// aapt resource value: 0x7f03001d
-			public const int design_layout_tab_text = 2130903069;
+			public const int design_layout_tab_icon = 2130903069;
 			
 			// aapt resource value: 0x7f03001e
-			public const int design_menu_item_action_area = 2130903070;
+			public const int design_layout_tab_text = 2130903070;
 			
 			// aapt resource value: 0x7f03001f
-			public const int design_navigation_item = 2130903071;
+			public const int design_menu_item_action_area = 2130903071;
 			
 			// aapt resource value: 0x7f030020
-			public const int design_navigation_item_header = 2130903072;
+			public const int design_navigation_item = 2130903072;
 			
 			// aapt resource value: 0x7f030021
-			public const int design_navigation_item_separator = 2130903073;
+			public const int design_navigation_item_header = 2130903073;
 			
 			// aapt resource value: 0x7f030022
-			public const int design_navigation_item_subheader = 2130903074;
+			public const int design_navigation_item_separator = 2130903074;
 			
 			// aapt resource value: 0x7f030023
-			public const int design_navigation_menu = 2130903075;
+			public const int design_navigation_item_subheader = 2130903075;
 			
 			// aapt resource value: 0x7f030024
-			public const int design_navigation_menu_item = 2130903076;
+			public const int design_navigation_menu = 2130903076;
 			
 			// aapt resource value: 0x7f030025
-			public const int Main = 2130903077;
+			public const int design_navigation_menu_item = 2130903077;
 			
 			// aapt resource value: 0x7f030026
-			public const int nav_header = 2130903078;
+			public const int KidsHome = 2130903078;
 			
 			// aapt resource value: 0x7f030027
-			public const int notification_media_action = 2130903079;
+			public const int Main = 2130903079;
 			
 			// aapt resource value: 0x7f030028
-			public const int notification_media_cancel_action = 2130903080;
+			public const int nav_header = 2130903080;
 			
 			// aapt resource value: 0x7f030029
-			public const int notification_template_big_media = 2130903081;
+			public const int notification_media_action = 2130903081;
 			
 			// aapt resource value: 0x7f03002a
-			public const int notification_template_big_media_narrow = 2130903082;
+			public const int notification_media_cancel_action = 2130903082;
 			
 			// aapt resource value: 0x7f03002b
-			public const int notification_template_lines = 2130903083;
+			public const int notification_template_big_media = 2130903083;
 			
 			// aapt resource value: 0x7f03002c
-			public const int notification_template_media = 2130903084;
+			public const int notification_template_big_media_narrow = 2130903084;
 			
 			// aapt resource value: 0x7f03002d
-			public const int notification_template_part_chronometer = 2130903085;
+			public const int notification_template_lines = 2130903085;
 			
 			// aapt resource value: 0x7f03002e
-			public const int notification_template_part_time = 2130903086;
+			public const int notification_template_media = 2130903086;
 			
 			// aapt resource value: 0x7f03002f
-			public const int select_dialog_item_material = 2130903087;
+			public const int notification_template_part_chronometer = 2130903087;
 			
 			// aapt resource value: 0x7f030030
-			public const int select_dialog_multichoice_material = 2130903088;
+			public const int notification_template_part_time = 2130903088;
 			
 			// aapt resource value: 0x7f030031
-			public const int select_dialog_singlechoice_material = 2130903089;
+			public const int select_dialog_item_material = 2130903089;
 			
 			// aapt resource value: 0x7f030032
-			public const int support_simple_spinner_dropdown_item = 2130903090;
+			public const int select_dialog_multichoice_material = 2130903090;
 			
 			// aapt resource value: 0x7f030033
-			public const int toolbar = 2130903091;
+			public const int select_dialog_singlechoice_material = 2130903091;
+			
+			// aapt resource value: 0x7f030034
+			public const int support_simple_spinner_dropdown_item = 2130903092;
+			
+			// aapt resource value: 0x7f030035
+			public const int toolbar = 2130903093;
+			
+			// aapt resource value: 0x7f030036
+			public const int ZerkenHome = 2130903094;
 			
 			static Layout()
 			{
@@ -2504,7 +3876,13 @@ namespace GroteKerk
 			public const int app_types = 2131492864;
 			
 			// aapt resource value: 0x7f0c0001
-			public const int left_drawer_zerken = 2131492865;
+			public const int left_drawer_algemeen = 2131492865;
+			
+			// aapt resource value: 0x7f0c0002
+			public const int left_drawer_kids = 2131492866;
+			
+			// aapt resource value: 0x7f0c0003
+			public const int left_drawer_zerken = 2131492867;
 			
 			static Menu()
 			{

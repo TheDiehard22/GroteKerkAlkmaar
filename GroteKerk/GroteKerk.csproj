@@ -58,6 +58,10 @@
     <OutputPath>bin\No Debugging\</OutputPath>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="MaterialDesignHelpers, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Xam.Plugins.Android.MaterialDesignHelpers.1.2.0\lib\MonoAndroid\MaterialDesignHelpers.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="Mono.Android" />
     <Reference Include="mscorlib" />
     <Reference Include="System" />
@@ -93,6 +97,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Fragments\Algemeen\AlgemeenHome.cs" />
+    <Compile Include="Fragments\Kids\KidsHome.cs" />
+    <Compile Include="Fragments\Zerken\ZerkenHome.cs" />
     <Compile Include="MainActivity.cs" />
     <Compile Include="RefLayoutManager.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
@@ -101,6 +108,15 @@
   <ItemGroup>
     <None Include="Assets\AboutAssets.txt" />
     <AndroidResource Include="Resources\layout\nav_header.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\AlgemeenHome.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\ZerkenHome.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\KidsHome.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>
@@ -198,6 +214,15 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\menu\app_types.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\menu\left_drawer_algemeen.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\menu\left_drawer_kids.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\values\dimens.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <Import Project="..\packages\Xamarin.Android.Support.Vector.Drawable.23.4.0.1\build\Xamarin.Android.Support.Vector.Drawable.targets" Condition="Exists('..\packages\Xamarin.Android.Support.Vector.Drawable.23.4.0.1\build\Xamarin.Android.Support.Vector.Drawable.targets')" />

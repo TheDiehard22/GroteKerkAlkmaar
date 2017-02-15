@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+  <TextView
+      android:id="@+id/algemeen_welkomst_title"
+      android:layout_width="match_parent"
+      android:layout_height="@dimen/material_component_text_full_width_single_line_text_field_height"
+      android:text="Algemeen"
+      android:textSize="@dimen/material_typography_title"
+      android:gravity="center_vertical" />
+
+  <TextView 
+      android:id="@+id/algemeen_welkomst_tekst"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Lorem ipsum, dolor sit amet. Lorem ipsum, dolor sit amet. Lorem ipsum, dolor sit amet. Lorem ipsum, dolor sit amet. Lorem ipsum, dolor sit amet."
+      android:textSize="@dimen/material_typography_body2"/>
+
+</LinearLayout>

@@ -1,18 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
 
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-  
   <group android:checkableBehavior="single">
 
-    <item android:id="@+id/zerken_home"
+    <item android:id="@+id/kids_home"
       android:title="Home" />
-    
-    <item android:id="@+id/zerken_map"
-      android:title="Plattegrond" />
 
-    <item android:id="@+id/zerken_list"
-      android:title="Lijst" />
+    <item android:id="@+id/kids_quiz"
+      android:title="Quiz" />
 
   </group>
-  
 </menu>

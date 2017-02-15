@@ -2,13 +2,13 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
   <group android:checkableBehavior="single">
 
-    <item android:id="@+id/algemene_app"
+    <item android:id="@+id/algemeen_app"
       android:title="Algemene App" />
 
     <item android:id="@+id/zerken_app"
       android:title="Zerken App" />
 
-    <item android:id="@+id/kinder_app"
+    <item android:id="@+id/kids_app"
       android:title="Kinder App" />
 
   </group>
