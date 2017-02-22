@@ -11,6 +11,13 @@ using Android.Preferences;
 using GroteKerk.Fragments.Algemeen;
 using GroteKerk.Fragments.Kids;
 using GroteKerk.Fragments.Zerken;
+using System.Threading.Tasks;
+using Newtonsoft.Json.Linq;
+using System.Net;
+using System;
+using System.IO;
+using Newtonsoft.Json;
+using System.Json;
 
 namespace GroteKerk
 {
@@ -21,6 +28,7 @@ namespace GroteKerk
 
         DrawerLayout _mDrawerLayout;
         NavigationView _mNavigtationView;
+
         ISharedPreferences _Preferences;
         ISharedPreferencesEditor _PreferencesEditor;
 
@@ -31,6 +39,7 @@ namespace GroteKerk
         #region Fragments
 
         Fragment _mCurrentFragment;
+
         AlgemeenHome _mAlgemeenHome;
         KidsHome _mKidsHome;
         ZerkenHome _mZerkenHome;
@@ -93,7 +102,6 @@ namespace GroteKerk
             /// Initliaze Navigation
             InitNavigation();
 
-
             #region Events
 
             _ChooseApplicationType.Click += ChooseApplicationType_Click;
@@ -106,6 +114,7 @@ namespace GroteKerk
         {
             base.OnResume();
 
+            // if the app was run for the first time, set start app to 'Algemeen'
             if (_Preferences.GetBoolean("firstRun", false) != true)
             {
                 _PreferencesEditor.PutInt("appType", 0);
@@ -157,21 +166,6 @@ namespace GroteKerk
             {
                 case Android.Resource.Id.Home:
                     _mDrawerLayout.OpenDrawer(Android.Support.V4.View.GravityCompat.Start);
-                    return true;
-                case Resource.Id.algemeen_app:
-                    _PreferencesEditor.PutInt("appType", 0);
-                    _PreferencesEditor.Apply();
-                    ReplaceFragment(_mAlgemeenHome);
-                    return true;
-                case Resource.Id.zerken_app:
-                    _PreferencesEditor.PutInt("appType", 1);
-                    _PreferencesEditor.Apply();
-                    ReplaceFragment(_mZerkenHome);
-                    return true;
-                case Resource.Id.kids_app:
-                    _PreferencesEditor.PutInt("appType", 2);
-                    _PreferencesEditor.Apply();
-                    ReplaceFragment(_mKidsHome);
                     return true;
             }
 
@@ -271,6 +265,7 @@ namespace GroteKerk
         }
 
         #endregion
+
     }
 }
 

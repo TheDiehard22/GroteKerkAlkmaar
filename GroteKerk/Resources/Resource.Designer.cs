@@ -3266,11 +3266,11 @@ namespace GroteKerk
 			// aapt resource value: 0x7f060049
 			public const int alertTitle = 2131099721;
 			
-			// aapt resource value: 0x7f060087
-			public const int algemeen_app = 2131099783;
+			// aapt resource value: 0x7f060088
+			public const int algemeen_app = 2131099784;
 			
-			// aapt resource value: 0x7f06008a
-			public const int algemeen_home = 2131099786;
+			// aapt resource value: 0x7f06008b
+			public const int algemeen_home = 2131099787;
 			
 			// aapt resource value: 0x7f06006a
 			public const int algemeen_welkomst_tekst = 2131099754;
@@ -3419,14 +3419,14 @@ namespace GroteKerk
 			// aapt resource value: 0x7f060000
 			public const int item_touch_helper_previous_elevation = 2131099648;
 			
-			// aapt resource value: 0x7f060089
-			public const int kids_app = 2131099785;
-			
-			// aapt resource value: 0x7f06008b
-			public const int kids_home = 2131099787;
+			// aapt resource value: 0x7f06008a
+			public const int kids_app = 2131099786;
 			
 			// aapt resource value: 0x7f06008c
-			public const int kids_quiz = 2131099788;
+			public const int kids_home = 2131099788;
+			
+			// aapt resource value: 0x7f06008d
+			public const int kids_quiz = 2131099789;
 			
 			// aapt resource value: 0x7f06002f
 			public const int left = 2131099695;
@@ -3635,17 +3635,20 @@ namespace GroteKerk
 			// aapt resource value: 0x7f060015
 			public const int wrap_content = 2131099669;
 			
-			// aapt resource value: 0x7f060088
-			public const int zerken_app = 2131099784;
+			// aapt resource value: 0x7f060087
+			public const int zerk_listview = 2131099783;
 			
-			// aapt resource value: 0x7f06008d
-			public const int zerken_home = 2131099789;
-			
-			// aapt resource value: 0x7f06008f
-			public const int zerken_list = 2131099791;
+			// aapt resource value: 0x7f060089
+			public const int zerken_app = 2131099785;
 			
 			// aapt resource value: 0x7f06008e
-			public const int zerken_map = 2131099790;
+			public const int zerken_home = 2131099790;
+			
+			// aapt resource value: 0x7f060090
+			public const int zerken_list = 2131099792;
+			
+			// aapt resource value: 0x7f06008f
+			public const int zerken_map = 2131099791;
 			
 			static Id()
 			{
